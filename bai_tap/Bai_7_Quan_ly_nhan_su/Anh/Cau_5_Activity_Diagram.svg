@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2240" height="2700" viewBox="0 0 2240 2700">
+<rect width="100%" height="100%" fill="white"/>
+<text x="44" y="60.08" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="28" font-weight="bold" fill="#222222">BÀI 7 — CÂU 5: Activity Diagram thử việc → ký hợp đồng</text>
+<rect x="30.0" y="175.0" width="540" height="2390" rx="0" fill="white" stroke="#BBBBBB" stroke-width="1.5"/>
+<text x="49.0" y="212.28" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="23" font-weight="bold" fill="#222222">Nhân viên nhân sự</text>
+<rect x="570.0" y="175.0" width="540" height="2390" rx="0" fill="white" stroke="#BBBBBB" stroke-width="1.5"/>
+<text x="589.0" y="212.28" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="23" font-weight="bold" fill="#222222">Trưởng đơn vị</text>
+<rect x="1110.0" y="175.0" width="540" height="2390" rx="0" fill="white" stroke="#BBBBBB" stroke-width="1.5"/>
+<text x="1129.0" y="212.28" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="23" font-weight="bold" fill="#222222">Nhân viên</text>
+<rect x="1650.0" y="175.0" width="540" height="2390" rx="0" fill="white" stroke="#BBBBBB" stroke-width="1.5"/>
+<text x="1669.0" y="212.28" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="23" font-weight="bold" fill="#222222">Đại diện công ty</text>
+<polyline points="300.0,275.0 300.0,355.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="294.29135365716604,342.2167548356277 300.0,355.0 305.70864634283396,342.2167548356277" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="484.0909090909091,505.0 705.0,595.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="691.0076798242889,595.4636551524417 705.0,595.0 695.3153888161388,584.8901876269917" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="988.5,705.0 1231.5,795.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="1217.5298328618965,795.9134714738034 1231.5,795.0 1221.4952225162688,785.2069194069985" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="1238.5714285714284,905.0 981.4285714285714,1005.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="991.2735381160081,995.0462755250478 981.4285714285714,1005.0 995.4116931624402,1005.6872456444446" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="840.0,1115.0 840.0,1167.5" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="834.291353657166,1154.7167548356276 840.0,1167.5 845.708646342834,1154.7167548356276" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="730.0,1284.8148148148148 435.0,1405.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="444.68461118386125,1394.8901876269917 435.0,1405.0 448.9923201757112,1405.4636551524416" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="517.5" y="1305.9074074074074" width="130" height="34" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="582.5" y="1329.7474074074073" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="19" font-weight="normal" fill="#222222">[Không đạt]</text>
+<polyline points="300.0,1515.0 300.0,1600.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="294.29135365716604,1587.2167548356276 300.0,1600.0 305.70864634283396,1587.2167548356276" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="771.3157894736842,1312.5 352.10526315789474,1755.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="356.7526644685737,1741.7938778947982 352.10526315789474,1755.0 365.0410787366727,1749.6460598329973" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="496.7105263157895" y="1494.75" width="130" height="34" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="561.7105263157895" y="1518.59" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="19" font-weight="normal" fill="#222222">[Đạt]</text>
+<polyline points="300.0,1865.0 300.0,1925.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="294.29135365716604,1912.2167548356276 300.0,1925.0 305.70864634283396,1912.2167548356276" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="495.0,2012.5 1185.0,2127.5" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="1171.4521889653602,2131.029421506379 1185.0,2127.5 1173.3291803206528,2119.767473374623" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="1545.0,2215.0 1755.0,2285.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="1741.0675163377005,2286.3732803791486 1755.0,2285.0 1744.6779812976495,2275.5418854993013" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="1920.0,2395.0 1920.0,2490.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="1914.291353657166,2477.216754835628 1920.0,2490.0 1925.708646342834,2477.216754835628" fill="none" stroke="#555555" stroke-width="1.8"/>
+<ellipse cx="300" cy="260" rx="15.0" ry="15.0" fill="#222222" stroke="#222222" stroke-width="1.6"/>
+<rect x="105.0" y="355.0" width="390" height="150" rx="18" fill="white" stroke="#555555" stroke-width="1.7"/>
+<text x="300.0" y="408.44" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Lập quyết định tuyển dụng:</text>
+<text x="300.0" y="437.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">đơn vị, thời gian thử việc,</text>
+<text x="300.0" y="467.4" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">lương thử việc, điều khoản</text>
+<rect x="645.0" y="595.0" width="390" height="110" rx="18" fill="white" stroke="#555555" stroke-width="1.7"/>
+<text x="840.0" y="643.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Tiếp nhận và phân công</text>
+<text x="840.0" y="672.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">công việc thử việc</text>
+<rect x="1185.0" y="795.0" width="390" height="110" rx="18" fill="white" stroke="#555555" stroke-width="1.7"/>
+<text x="1380.0" y="857.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Thực hiện thử việc</text>
+<rect x="645.0" y="1005.0" width="390" height="110" rx="18" fill="white" stroke="#555555" stroke-width="1.7"/>
+<text x="840.0" y="1053.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Đánh giá khi hết</text>
+<text x="840.0" y="1082.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">thời gian thử việc</text>
+<polygon points="840,1167.5 950.0,1240 840,1312.5 730.0,1240" fill="white" stroke="#555555" stroke-width="1.6"/>
+<text x="840.0" y="1247.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Thử việc đạt?</text>
+<rect x="105.0" y="1405.0" width="390" height="110" rx="18" fill="white" stroke="#555555" stroke-width="1.7"/>
+<text x="300.0" y="1453.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Ghi nhận không đạt;</text>
+<text x="300.0" y="1482.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">thông báo kết thúc quy trình</text>
+<ellipse cx="300" cy="1620" rx="20.0" ry="20.0" fill="#222222" stroke="#222222" stroke-width="1.6"/>
+<ellipse cx="300" cy="1620" rx="14.399999999999999" ry="14.399999999999999" fill="white" stroke="#222222" stroke-width="1.6"/>
+<ellipse cx="300" cy="1620" rx="9.6" ry="9.6" fill="#222222" stroke="#222222" stroke-width="1.6"/>
+<rect x="105.0" y="1755.0" width="390" height="110" rx="18" fill="white" stroke="#555555" stroke-width="1.7"/>
+<text x="300.0" y="1803.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Chọn đúng một loại:</text>
+<text x="300.0" y="1832.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">dài hạn hoặc ngắn hạn</text>
+<rect x="105.0" y="1925.0" width="390" height="110" rx="18" fill="white" stroke="#555555" stroke-width="1.7"/>
+<text x="300.0" y="1973.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Soạn hợp đồng chính thức</text>
+<text x="300.0" y="2002.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">và kiểm tra điều khoản</text>
+<rect x="1185.0" y="2105.0" width="390" height="110" rx="18" fill="white" stroke="#555555" stroke-width="1.7"/>
+<text x="1380.0" y="2167.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Đọc và ký hợp đồng</text>
+<rect x="1725.0" y="2285.0" width="390" height="110" rx="18" fill="white" stroke="#555555" stroke-width="1.7"/>
+<text x="1920.0" y="2333.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Đại diện công ty</text>
+<text x="1920.0" y="2362.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">ký hợp đồng</text>
+<ellipse cx="1920" cy="2510" rx="20.0" ry="20.0" fill="#222222" stroke="#222222" stroke-width="1.6"/>
+<ellipse cx="1920" cy="2510" rx="14.399999999999999" ry="14.399999999999999" fill="white" stroke="#222222" stroke-width="1.6"/>
+<ellipse cx="1920" cy="2510" rx="9.6" ry="9.6" fill="#222222" stroke="#222222" stroke-width="1.6"/>
+<text x="1120.0" y="2622.56" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="21" font-weight="normal" fill="#222222">Sau phạm vi Câu 5: nhân sự lập quyết định lương; chức vụ/phụ cấp nếu có; lập BHYT, BHXH khi hợp đồng dài hạn có hiệu lực.</text>
+</svg>

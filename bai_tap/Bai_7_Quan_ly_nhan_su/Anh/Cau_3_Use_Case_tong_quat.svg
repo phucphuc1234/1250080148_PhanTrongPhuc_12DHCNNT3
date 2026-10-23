@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="2150" viewBox="0 0 3000 2150">
+<rect width="100%" height="100%" fill="white"/>
+<text x="44" y="72.24000000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="34" font-weight="bold" fill="#222222">BÀI 7 — CÂU 3: Use Case Diagram tổng quát</text>
+<rect x="360.0" y="160.0" width="2280" height="1930" rx="0" fill="white" stroke="#BBBBBB" stroke-width="1.5"/>
+<text x="379.0" y="198.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">HỆ THỐNG QUẢN LÝ NHÂN SỰ</text>
+<polyline points="195.0,317.8 233.0,317.8 225,325 225,350 475,350 482.0,360.0 520.0,360.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,330.85 233.0,330.85 225,325 225,250 1225,250 1225,350 1250,350 1242.0,360.0 1280.0,360.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,343.9 233.0,343.9 225,350 200,350 200,225 2000,225 2000,350 2002.0,360.0 2040.0,360.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,356.95 233.0,356.95 225,350 225,650 475,650 482.0,660.0 520.0,660.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,370.0 233.0,370.0 225,375 475,375 475,550 1225,550 1225,650 1250,650 1242.0,660.0 1280.0,660.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,383.05 233.0,383.05 225,375 250,375 250,525 2000,525 2000,650 2002.0,660.0 2040.0,660.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="121.0,442.5 121.0,480.5 125,475 125,850 750,850 740.0,859.5 740.0,897.5" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,396.1 233.0,396.1 225,400 200,400 200,800 2000,800 2000,950 2002.0,960.0 2040.0,960.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="179.0,442.5 179.0,480.5 175,475 175,1450 750,1450 740.0,1459.5 740.0,1497.5" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,409.15 233.0,409.15 225,400 450,400 450,825 1175,825 1175,1525 1250,1525 1242.0,1531.0 1305.1162561935962,1531.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,422.2 233.0,422.2 225,425 425,425 425,775 1975,775 1975,1850 2000,1850 2002.0,1860.0 2040.0,1860.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,1042.8 233.0,1042.8 225,1050 1225,1050 1225,950 1250,950 1242.0,960.0 1280.0,960.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,1095.0 233.0,1095.0 225,1100 225,1550 475,1550 482.0,1560.0 520.0,1560.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,1147.2 233.0,1147.2 225,1150 1225,1150 1225,1600 1250,1600 1242.0,1589.0 1305.1162561935962,1589.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,1791.0 233.0,1791.0 225,1800 475,1800 475,1250 482.0,1260.0 520.0,1260.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="195.0,1849.0 233.0,1849.0 225,1850 225,1650 1200,1650 1200,1250 1250,1250 1242.0,1260.0 1280.0,1260.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="2850.0,442.5 2850.0,480.5 2850,475 2850,1075 2250,1075 2250,1150 2260.0,1159.5 2260.0,1197.5" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="2805.0,370.0 2767.0,370.0 2775,375 2775,1725 1000,1725 1000,1850 998.0,1860.0 960.0,1860.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="2816.25,442.5 2816.25,480.5 2825,475 2825,1050 1750,1050 1750,1750 1500,1750 1500.0,1759.5 1500.0,1797.5" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="2883.75,442.5 2883.75,480.5 2875,475 2875,1750 2250,1750 2260.0,1759.5 2260.0,1797.5" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="2805.0,1095.0 2767.0,1095.0 2775,1100 2525,1100 2525,1550 2518.0,1560.0 2480.0,1560.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="2805.0,1820.0 2767.0,1820.0 2775,1825 2500,1825 2500,750 1000,750 1000,650 998.0,660.0 960.0,660.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<ellipse cx="150" cy="318.5" rx="18.0" ry="18.0" fill="white" stroke="#555555" stroke-width="1.7"/>
+<polyline points="150,336.5 150,381.6" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="115.8,349.7 184.2,349.7" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="150,381.6 115.8,420.75" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="150,381.6 184.2,420.75" fill="none" stroke="#555555" stroke-width="1.7"/>
+<text x="150.0" y="467.82" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Nhân viên nhân sự</text>
+<ellipse cx="150" cy="1043.5" rx="18.0" ry="18.0" fill="white" stroke="#555555" stroke-width="1.7"/>
+<polyline points="150,1061.5 150,1106.6" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="115.8,1074.7 184.2,1074.7" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="150,1106.6 115.8,1145.75" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="150,1106.6 184.2,1145.75" fill="none" stroke="#555555" stroke-width="1.7"/>
+<text x="150.0" y="1192.8200000000002" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Trưởng đơn vị</text>
+<ellipse cx="150" cy="1768.5" rx="18.0" ry="18.0" fill="white" stroke="#555555" stroke-width="1.7"/>
+<polyline points="150,1786.5 150,1831.6" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="115.8,1799.7 184.2,1799.7" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="150,1831.6 115.8,1870.75" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="150,1831.6 184.2,1870.75" fill="none" stroke="#555555" stroke-width="1.7"/>
+<text x="150.0" y="1917.8200000000002" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Ban chấm công</text>
+<ellipse cx="2850" cy="318.5" rx="18.0" ry="18.0" fill="white" stroke="#555555" stroke-width="1.7"/>
+<polyline points="2850,336.5 2850,381.6" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="2815.8,349.7 2884.2,349.7" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="2850,381.6 2815.8,420.75" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="2850,381.6 2884.2,420.75" fill="none" stroke="#555555" stroke-width="1.7"/>
+<text x="2850.0" y="467.82" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Kế toán lương</text>
+<ellipse cx="2850" cy="1043.5" rx="18.0" ry="18.0" fill="white" stroke="#555555" stroke-width="1.7"/>
+<polyline points="2850,1061.5 2850,1106.6" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="2815.8,1074.7 2884.2,1074.7" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="2850,1106.6 2815.8,1145.75" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="2850,1106.6 2884.2,1145.75" fill="none" stroke="#555555" stroke-width="1.7"/>
+<text x="2850.0" y="1192.8200000000002" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Giám đốc</text>
+<ellipse cx="2850" cy="1768.5" rx="18.0" ry="18.0" fill="white" stroke="#555555" stroke-width="1.7"/>
+<polyline points="2850,1786.5 2850,1831.6" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="2815.8,1799.7 2884.2,1799.7" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="2850,1831.6 2815.8,1870.75" fill="none" stroke="#555555" stroke-width="1.7"/>
+<polyline points="2850,1831.6 2884.2,1870.75" fill="none" stroke="#555555" stroke-width="1.7"/>
+<text x="2850.0" y="1917.8200000000002" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Nhân viên</text>
+<ellipse cx="740" cy="360" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="740.0" y="367.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Quản lý hồ sơ nhân viên</text>
+<ellipse cx="1500" cy="360" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="1500.0" y="353.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Quản lý đơn vị</text>
+<text x="1500.0" y="382.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">và chức vụ</text>
+<ellipse cx="2260" cy="360" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="2260.0" y="353.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Quản lý quyết định</text>
+<text x="2260.0" y="382.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">tuyển dụng / thử việc</text>
+<ellipse cx="740" cy="660" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="740.0" y="667.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Lập và ký hợp đồng</text>
+<ellipse cx="1500" cy="660" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="1500.0" y="667.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Quản lý quyết định lương</text>
+<ellipse cx="2260" cy="660" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="2260.0" y="653.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Quản lý quyết định</text>
+<text x="2260.0" y="682.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">chức vụ / phụ cấp</text>
+<ellipse cx="740" cy="960" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="740.0" y="967.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Quản lý BHYT, BHXH</text>
+<ellipse cx="1500" cy="960" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="1500.0" y="953.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Lập kế hoạch</text>
+<text x="1500.0" y="982.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">phân công tuần</text>
+<ellipse cx="2260" cy="960" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="2260.0" y="967.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Quản lý ca làm việc</text>
+<ellipse cx="740" cy="1260" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="740.0" y="1253.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Lập và chốt</text>
+<text x="740.0" y="1282.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">bảng chấm công</text>
+<ellipse cx="1500" cy="1260" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="1500.0" y="1253.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Ghi nhận phiếu</text>
+<text x="1500.0" y="1282.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">và chi tiết phụ trội</text>
+<ellipse cx="2260" cy="1260" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="2260.0" y="1267.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Lập bảng lương tháng</text>
+<ellipse cx="740" cy="1560" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="740.0" y="1553.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Lập quyết định</text>
+<text x="740.0" y="1582.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">khen thưởng</text>
+<ellipse cx="1500" cy="1560" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="1500.0" y="1567.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Lập quyết định kỷ luật</text>
+<ellipse cx="2260" cy="1560" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="2260.0" y="1553.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Duyệt và ký</text>
+<text x="2260.0" y="1582.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">quyết định khen thưởng</text>
+<ellipse cx="740" cy="1860" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="740.0" y="1853.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Lập phiếu chi thưởng /</text>
+<text x="740.0" y="1882.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">phiếu thu nộp phạt</text>
+<ellipse cx="1500" cy="1860" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="1500.0" y="1853.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Phân bổ thưởng / phạt</text>
+<text x="1500.0" y="1882.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">và đối chiếu hạch toán</text>
+<ellipse cx="2260" cy="1860" rx="220.0" ry="62.5" fill="#FFF8C9" stroke="#FF4F87" stroke-width="1.6"/>
+<text x="2260.0" y="1853.18" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Tra cứu quá trình</text>
+<text x="2260.0" y="1882.66" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">và báo cáo nhân sự</text>
+<text x="1500.0" y="2107.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">Liên kết actor: đường liền, không mũi tên. «include»: bắt buộc; «extend»: chỉ xảy ra khi có điều kiện.</text>
+</svg>

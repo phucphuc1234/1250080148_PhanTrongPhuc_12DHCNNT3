@@ -1,0 +1,291 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4200" height="4878" viewBox="0 0 4200 4878.0">
+<rect width="100%" height="100%" fill="white"/>
+<text x="44" y="72.24000000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="34" font-weight="bold" fill="#222222">BÀI 7 — CÂU 1: Các lớp, thuộc tính và phương thức</text>
+<rect x="160.0" y="229.8" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="570.0" y="271.44" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">NhanVien</text>
+<rect x="160.0" y="295.8" width="820" height="269.59999999999997" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="342.76" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maNhanVien: String {id}</text>
+<text x="174.0" y="374.92" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- hoTen: String</text>
+<text x="174.0" y="407.08" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngaySinh: Date</text>
+<text x="174.0" y="439.24" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- diaChi: String</text>
+<text x="174.0" y="471.4" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soDienThoai: String</text>
+<text x="174.0" y="503.56" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayVaoLam: Date</text>
+<text x="174.0" y="535.72" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="160.0" y="565.4" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="605.76" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ capNhatHoSo()</text>
+<text x="174.0" y="637.92" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ traCuuQuaTrinh()</text>
+<rect x="1170.0" y="180.0" width="820" height="96" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="1580.0" y="220.56" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">«abstract»</text>
+<text x="1580.0" y="252.72" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">QuyetDinh</text>
+<rect x="1170.0" y="276.0" width="820" height="269.59999999999997" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1184.0" y="322.9599999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maQuyetDinh: String {id}</text>
+<text x="1184.0" y="355.11999999999995" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soQuyetDinh: String</text>
+<text x="1184.0" y="387.2799999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayLap: Date</text>
+<text x="1184.0" y="419.43999999999994" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayKy: Date?</text>
+<text x="1184.0" y="451.5999999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- noiDung: String</text>
+<text x="1184.0" y="483.75999999999993" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- nguoiKy: String</text>
+<text x="1184.0" y="515.92" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="1170.0" y="545.5999999999999" width="820" height="165.2" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1184.0" y="588.5999999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ lap()</text>
+<text x="1184.0" y="620.7599999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ trinhKy()</text>
+<text x="1184.0" y="652.92" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ pheDuyet()</text>
+<text x="1184.0" y="685.0799999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ traCuu()</text>
+<rect x="2180.0" y="264.59999999999997" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="2590.0" y="306.24" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">PhongBan</text>
+<rect x="2180.0" y="330.59999999999997" width="820" height="200.0" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2194.0" y="374.91999999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maPhongBan: String {id}</text>
+<text x="2194.0" y="407.08" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- tenPhongBan: String</text>
+<text x="2194.0" y="439.23999999999995" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- loaiDonVi: String</text>
+<text x="2194.0" y="471.4" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- diaDiem: String</text>
+<text x="2194.0" y="503.55999999999995" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="2180.0" y="530.5999999999999" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2194.0" y="570.9599999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ quanLyNhanVien()</text>
+<text x="2194.0" y="603.1199999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ lapKeHoachTuan()</text>
+<rect x="3190.0" y="197.4" width="820" height="96" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="3600.0" y="237.96" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">«abstract»</text>
+<text x="3600.0" y="270.12" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">HopDong</text>
+<rect x="3190.0" y="293.4" width="820" height="269.59999999999997" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3204.0" y="340.3599999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maHopDong: String {id}</text>
+<text x="3204.0" y="372.5199999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soHopDong: String</text>
+<text x="3204.0" y="404.6799999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayKy: Date</text>
+<text x="3204.0" y="436.8399999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayHieuLuc: Date</text>
+<text x="3204.0" y="468.9999999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayHetHan: Date?</text>
+<text x="3204.0" y="501.1599999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- dieuKhoan: String</text>
+<text x="3204.0" y="533.3199999999999" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="3190.0" y="563.0" width="820" height="130.39999999999998" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3204.0" y="604.6800000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ lapHopDong()</text>
+<text x="3204.0" y="636.84" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ kyHopDong()</text>
+<text x="3204.0" y="669.0000000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ kiemTraHieuLuc()</text>
+<rect x="160.0" y="920.8" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="570.0" y="962.4399999999999" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">QDTuyenDung</text>
+<rect x="160.0" y="986.8" width="820" height="200.0" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="1031.12" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- batDauThuViec: Date</text>
+<text x="174.0" y="1063.28" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ketThucThuViec: Date</text>
+<text x="174.0" y="1095.4399999999998" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- luongThuViec: Decimal</text>
+<text x="174.0" y="1127.6" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- dieuKhoan: String</text>
+<text x="174.0" y="1159.76" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ketQuaThuViec: String</text>
+<rect x="160.0" y="1186.8" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="1227.16" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ phanCongThuViec()</text>
+<text x="174.0" y="1259.3200000000002" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ ghiNhanDanhGia()</text>
+<rect x="1170.0" y="972.9999999999999" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="1580.0" y="1014.6399999999999" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">QDChucVu</text>
+<rect x="1170.0" y="1039.0" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1184.0" y="1079.3600000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayHieuLuc: Date</text>
+<text x="1184.0" y="1111.5200000000002" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- phuCapChucVu: Decimal</text>
+<rect x="1170.0" y="1134.6" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1184.0" y="1174.96" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ boNhiem()</text>
+<text x="1184.0" y="1207.1200000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ ketThucHieuLuc()</text>
+<rect x="2180.0" y="938.1999999999999" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="2590.0" y="979.8399999999999" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">QDLuong</text>
+<rect x="2180.0" y="1004.1999999999999" width="820" height="165.2" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2194.0" y="1047.1999999999998" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayHieuLuc: Date</text>
+<text x="2194.0" y="1079.36" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- luongCoBan: Decimal</text>
+<text x="2194.0" y="1111.5199999999998" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- phuCapLuong: Decimal</text>
+<text x="2194.0" y="1143.6799999999998" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- phuCapDocHai: Decimal</text>
+<rect x="2180.0" y="1169.3999999999999" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2194.0" y="1209.76" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ apDungMucLuong()</text>
+<text x="2194.0" y="1241.92" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ xacDinhMucHieuLuc()</text>
+<rect x="3190.0" y="1008.1999999999999" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="3600.0" y="1049.84" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">HopDongDaiHan</text>
+<rect x="3190.0" y="1074.1999999999998" width="820" height="60" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3204.0" y="1112.84" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222"></text>
+<rect x="3190.0" y="1134.1999999999998" width="820" height="60.8" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3204.0" y="1173.2399999999998" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ yeuCauBaoHiem(): Boolean</text>
+<rect x="160.0" y="1492.4" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="570.0" y="1534.0400000000002" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">QDKhenThuong</text>
+<rect x="160.0" y="1558.4" width="820" height="200.0" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="1602.72" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- lyDo: String</text>
+<text x="174.0" y="1634.88" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- loaiThuong: String</text>
+<text x="174.0" y="1667.04" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soTien: Decimal</text>
+<text x="174.0" y="1699.2" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- hinhThucChi: String</text>
+<text x="174.0" y="1731.3600000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayHieuLuc: Date</text>
+<rect x="160.0" y="1758.4" width="820" height="130.39999999999998" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="1800.0800000000002" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ chonDoiTuong()</text>
+<text x="174.0" y="1832.2400000000002" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ kiemTraDuLieu()</text>
+<text x="174.0" y="1864.4" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ trinhKy()</text>
+<rect x="1170.0" y="1492.4" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="1580.0" y="1534.0400000000002" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">QDKyLuat</text>
+<rect x="1170.0" y="1558.4" width="820" height="200.0" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1184.0" y="1602.72" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- lyDo: String</text>
+<text x="1184.0" y="1634.88" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- hinhThucKyLuat: String</text>
+<text x="1184.0" y="1667.04" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soTienPhat: Decimal</text>
+<text x="1184.0" y="1699.2" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- hinhThucThu: String</text>
+<text x="1184.0" y="1731.3600000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayHieuLuc: Date</text>
+<rect x="1170.0" y="1758.4" width="820" height="130.39999999999998" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1184.0" y="1800.0800000000002" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ chonDoiTuong()</text>
+<text x="1184.0" y="1832.2400000000002" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ trinhKy()</text>
+<text x="1184.0" y="1864.4" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ ghiNhanXuLy()</text>
+<rect x="2180.0" y="1544.6000000000001" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="2590.0" y="1586.2400000000002" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">ChucVu</text>
+<rect x="2180.0" y="1610.6000000000001" width="820" height="130.39999999999998" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2194.0" y="1652.2800000000002" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maChucVu: String {id}</text>
+<text x="2194.0" y="1684.4400000000003" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- tenChucVu: String</text>
+<text x="2194.0" y="1716.6000000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- moTa: String</text>
+<rect x="2180.0" y="1741.0" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2194.0" y="1781.3600000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ capNhat()</text>
+<text x="2194.0" y="1813.5200000000002" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ traCuu()</text>
+<rect x="3190.0" y="1597.2" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="3600.0" y="1638.8400000000001" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">HopDongNganHan</text>
+<rect x="3190.0" y="1663.2" width="820" height="60" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3204.0" y="1701.8400000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222"></text>
+<rect x="3190.0" y="1723.2" width="820" height="60.8" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3204.0" y="1762.24" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ kiemTraThoiHan()</text>
+<rect x="160.0" y="2098.8" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="570.0" y="2140.44" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">HoSoBaoHiem</text>
+<rect x="160.0" y="2164.8" width="820" height="269.59999999999997" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="2211.7599999999998" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maHoSoBH: String {id}</text>
+<text x="174.0" y="2243.9199999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soBHYT: String</text>
+<text x="174.0" y="2276.08" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soBHXH: String</text>
+<text x="174.0" y="2308.24" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayThamGia: Date</text>
+<text x="174.0" y="2340.3999999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- mucDongBHYT: Decimal</text>
+<text x="174.0" y="2372.56" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- mucDongBHXH: Decimal</text>
+<text x="174.0" y="2404.72" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="160.0" y="2434.4" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="2474.7599999999998" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ lapHoSo()</text>
+<text x="174.0" y="2506.9199999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ tinhKhoanKhauTru()</text>
+<rect x="1170.0" y="2116.2000000000003" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="1580.0" y="2157.84" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">KeHoachTuan</text>
+<rect x="1170.0" y="2182.2000000000003" width="820" height="200.0" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1184.0" y="2226.52" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maKeHoach: String {id}</text>
+<text x="1184.0" y="2258.68" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- tuan: Integer</text>
+<text x="1184.0" y="2290.84" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- nam: Integer</text>
+<text x="1184.0" y="2323.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayLap: Date</text>
+<text x="1184.0" y="2355.16" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="1170.0" y="2382.2000000000003" width="820" height="130.39999999999998" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1184.0" y="2423.88" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ lapKeHoach()</text>
+<text x="1184.0" y="2456.04" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ themPhanCong()</text>
+<text x="1184.0" y="2488.2000000000003" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ guiBanChamCong()</text>
+<rect x="2180.0" y="2133.6" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="2590.0" y="2175.24" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">PhanCongCa</text>
+<rect x="2180.0" y="2199.6" width="820" height="200.0" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2194.0" y="2243.9199999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maPhanCong: String {id}</text>
+<text x="2194.0" y="2276.0799999999995" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayLam: Date</text>
+<text x="2194.0" y="2308.24" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- nhiemVu: String</text>
+<text x="2194.0" y="2340.3999999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soGioPhuTroiDuKien: Decimal</text>
+<text x="2194.0" y="2372.5599999999995" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- hinhThucPhuTroi: String</text>
+<rect x="2180.0" y="2399.6" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2194.0" y="2439.9599999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ phanCong()</text>
+<text x="2194.0" y="2472.1199999999994" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ dieuChinh()</text>
+<rect x="3190.0" y="2133.6" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="3600.0" y="2175.24" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">CaLamViec</text>
+<rect x="3190.0" y="2199.6" width="820" height="200.0" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3204.0" y="2243.9199999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maCa: String {id}</text>
+<text x="3204.0" y="2276.0799999999995" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- tenCa: String</text>
+<text x="3204.0" y="2308.24" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- gioBatDau: Time</text>
+<text x="3204.0" y="2340.3999999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- gioKetThuc: Time</text>
+<text x="3204.0" y="2372.5599999999995" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soGioChuan: Decimal</text>
+<rect x="3190.0" y="2399.6" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3204.0" y="2439.9599999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ capNhatCa()</text>
+<text x="3204.0" y="2472.1199999999994" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ tinhSoGio()</text>
+<rect x="160.0" y="2740.0" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="570.0" y="2781.64" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">BangChamCong</text>
+<rect x="160.0" y="2806.0" width="820" height="200.0" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="2850.3199999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maBangChamCong: String {id}</text>
+<text x="174.0" y="2882.4799999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- thang: Integer</text>
+<text x="174.0" y="2914.64" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- nam: Integer</text>
+<text x="174.0" y="2946.7999999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayLap: Date</text>
+<text x="174.0" y="2978.9599999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="160.0" y="3006.0" width="820" height="130.39999999999998" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="3047.68" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ tongHopChamCong()</text>
+<text x="174.0" y="3079.8399999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ kiemTra()</text>
+<text x="174.0" y="3112.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ chotBang()</text>
+<rect x="1170.0" y="2740.0" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="1580.0" y="2781.64" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">ChiTietChamCong</text>
+<rect x="1170.0" y="2806.0" width="820" height="234.79999999999998" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1184.0" y="2851.64" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maChiTietCC: String {id}</text>
+<text x="1184.0" y="2883.7999999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayLam: Date</text>
+<text x="1184.0" y="2915.96" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- gioVao: Time</text>
+<text x="1184.0" y="2948.12" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- gioRa: Time</text>
+<text x="1184.0" y="2980.2799999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soGioLam: Decimal</text>
+<text x="1184.0" y="3012.44" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soCong: Decimal</text>
+<rect x="1170.0" y="3040.8" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1184.0" y="3081.16" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ ghiNhanCong()</text>
+<text x="1184.0" y="3113.3199999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ tinhCongThucTe()</text>
+<rect x="2180.0" y="2740.0" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="2590.0" y="2781.64" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">PhieuPhuTroi</text>
+<rect x="2180.0" y="2806.0" width="820" height="234.79999999999998" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2194.0" y="2851.64" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maPhieuPT: String {id}</text>
+<text x="2194.0" y="2883.7999999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayPhuTroi: Date</text>
+<text x="2194.0" y="2915.96" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soGioPhuTroi: Decimal</text>
+<text x="2194.0" y="2948.12" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- hinhThuc: String</text>
+<text x="2194.0" y="2980.2799999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- heSo: Decimal = 1.5</text>
+<text x="2194.0" y="3012.44" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="2180.0" y="3040.8" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2194.0" y="3081.16" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ lapPhieu()</text>
+<text x="2194.0" y="3113.3199999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ xacNhanPhuTroi()</text>
+<rect x="3190.0" y="2792.2" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="3600.0" y="2833.8399999999997" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">ChiTietPhuTroi</text>
+<rect x="3190.0" y="2858.2" width="820" height="130.39999999999998" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3204.0" y="2899.8799999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maChiTietPT: String {id}</text>
+<text x="3204.0" y="2932.0399999999995" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soGioThucTe: Decimal</text>
+<text x="3204.0" y="2964.2" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ghiChu: String</text>
+<rect x="3190.0" y="2988.6" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3204.0" y="3028.9599999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ ghiNhanSoGio()</text>
+<text x="3204.0" y="3061.1199999999994" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ tinhTienPhuTroi()</text>
+<rect x="160.0" y="3450.8" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="570.0" y="3492.44" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">BangLuong</text>
+<rect x="160.0" y="3516.8" width="820" height="234.79999999999998" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="3562.44" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maBangLuong: String {id}</text>
+<text x="174.0" y="3594.6" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- thang: Integer</text>
+<text x="174.0" y="3626.76" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- nam: Integer</text>
+<text x="174.0" y="3658.92" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayLap: Date</text>
+<text x="174.0" y="3691.08" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- trangThai: String</text>
+<text x="174.0" y="3723.2400000000002" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- tongThucLinh: Decimal</text>
+<rect x="160.0" y="3751.6000000000004" width="820" height="130.39999999999998" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="3793.28" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ tinhLuong()</text>
+<text x="174.0" y="3825.44" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ kiemTra()</text>
+<text x="174.0" y="3857.6000000000004" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ chotBangLuong()</text>
+<rect x="1170.0" y="3346.4" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="1580.0" y="3388.04" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">ChiTietLuong</text>
+<rect x="1170.0" y="3412.4" width="820" height="478.4" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1184.0" y="3467.2799999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maChiTietLuong: String {id}</text>
+<text x="1184.0" y="3499.4399999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayCong: Decimal</text>
+<text x="1184.0" y="3531.6" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- gioPhuTroi: Decimal</text>
+<text x="1184.0" y="3563.7599999999998" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- luongTheoCong: Decimal</text>
+<text x="1184.0" y="3595.9199999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- tienPhuTroi: Decimal</text>
+<text x="1184.0" y="3628.08" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- phuCapChucVu: Decimal</text>
+<text x="1184.0" y="3660.24" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- phuCapLuong: Decimal</text>
+<text x="1184.0" y="3692.3999999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- phuCapDocHai: Decimal</text>
+<text x="1184.0" y="3724.56" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- tienThuong: Decimal</text>
+<text x="1184.0" y="3756.72" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- tienPhat: Decimal</text>
+<text x="1184.0" y="3788.8799999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- khauTruBHYT: Decimal</text>
+<text x="1184.0" y="3821.04" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- khauTruBHXH: Decimal</text>
+<text x="1184.0" y="3853.2" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- thucLinh: Decimal</text>
+<rect x="1170.0" y="3890.8" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1184.0" y="3931.16" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ tinhThucLinh()</text>
+<text x="1184.0" y="3963.3199999999997" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ doiChieuChungTu()</text>
+<rect x="2180.0" y="3485.6" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="2590.0" y="3527.24" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">PhanBoThuongPhat</text>
+<rect x="2180.0" y="3551.6" width="820" height="200.0" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2194.0" y="3595.9199999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maPhanBo: String {id}</text>
+<text x="2194.0" y="3628.0799999999995" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- loaiKhoan: String</text>
+<text x="2194.0" y="3660.24" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soTien: Decimal</text>
+<text x="2194.0" y="3692.3999999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- hinhThucXuLy: String</text>
+<text x="2194.0" y="3724.5599999999995" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="2180.0" y="3751.6" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2194.0" y="3791.9599999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ phanBoChoNhanVien()</text>
+<text x="2194.0" y="3824.1199999999994" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ kiemTraKhongTrungChiThu()</text>
+<rect x="3190.0" y="3485.6" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="3600.0" y="3527.24" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">PhieuChiKhenThuong</text>
+<rect x="3190.0" y="3551.6" width="820" height="200.0" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3204.0" y="3595.9199999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maPhieuChi: String {id}</text>
+<text x="3204.0" y="3628.0799999999995" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayChi: Date</text>
+<text x="3204.0" y="3660.24" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soTien: Decimal</text>
+<text x="3204.0" y="3692.3999999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- nguoiNhan: String</text>
+<text x="3204.0" y="3724.5599999999995" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="3190.0" y="3751.6" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3204.0" y="3791.9599999999996" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ lapPhieuChi()</text>
+<text x="3204.0" y="3824.1199999999994" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ xacNhanDaChi()</text>
+<rect x="160.0" y="4196.4" width="820" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="570.0" y="4238.04" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="bold" fill="#222222">PhieuThuNopPhat</text>
+<rect x="160.0" y="4262.4" width="820" height="200.0" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="4306.72" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- maPhieuThu: String {id}</text>
+<text x="174.0" y="4338.88" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- ngayThu: Date</text>
+<text x="174.0" y="4371.04" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- soTien: Decimal</text>
+<text x="174.0" y="4403.200000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- nguoiNop: String</text>
+<text x="174.0" y="4435.360000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="160.0" y="4462.4" width="820" height="95.6" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="174.0" y="4502.76" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ lapPhieuThu()</text>
+<text x="174.0" y="4534.92" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">+ xacNhanDaThu()</text>
+<text x="2100.0" y="4833.78" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="23" font-weight="normal" fill="#222222">{id}: mã định danh của lớp. Lớp con dùng lại ID của lớp cha, không tạo thêm ID mới. Dấu -: thuộc tính; dấu +: phương thức.</text>
+</svg>

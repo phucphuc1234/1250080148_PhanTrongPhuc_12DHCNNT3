@@ -1,0 +1,21 @@
+BÀI 7 – QUẢN LÝ NHÂN SỰ – HƯỚNG DẪN
+
+Word đã soạn câu trả lời đủ 6 câu, có 6 khung ghi rõ tên ảnh cần chèn.
+Câu 1: 25 lớp nghiệp vụ, thuộc tính, phương thức và ID; lớp con kế thừa ID.
+Câu 2: Class Diagram tổng thể với 43 liên kết/phụ thuộc/kế thừa; thuộc tính rút gọn, chi tiết ở Câu 1.
+Câu 3: Use Case Diagram tổng quát.
+Câu 4: Use Case phân rã thử việc tới ký hợp đồng, có include/extend và hai loại hợp đồng loại trừ nhau.
+Câu 5: Activity Diagram có swimlane, nhánh đạt/không đạt, kết thúc tại ký hợp đồng.
+Câu 6: Sequence Diagram lập quyết định khen thưởng cá nhân/tập thể, có alt, break và bước giám đốc ký duyệt.
+
+CHÈN ẢNH
+Mở Word, tới khung CHÈN ẢNH CÂU ..., xóa phần hướng dẫn trong khung rồi chọn Insert > Pictures.
+Chọn PNG cùng tên trong thư mục Anh. Giữ nguyên tỷ lệ. Với sơ đồ lớn dùng trang ngang hoặc phóng to PDF/SVG.
+
+CHỈNH SỬA XML
+Vào https://app.diagrams.net/ > Device > File > Open From > Device, chọn XML trong thư mục XML.
+Các hình, chữ và đường nối đều chỉnh sửa được. XML là định dạng draw.io, không phải tệp StarUML .mdj.
+Không đổi đuôi XML thành .mdj. Nếu phải nộp tệp StarUML, cần dựng lại theo các mô hình UML đã cung cấp.
+
+Các giả định phân tích được ghi đầu Word: vai trò bổ sung, nhánh thử việc không đạt, cách phân bổ thưởng tập thể.
+Không tự đặt tỷ lệ bảo hiểm, giờ chuẩn tháng hoặc cách chia thưởng tập thể khi đề chưa nêu.

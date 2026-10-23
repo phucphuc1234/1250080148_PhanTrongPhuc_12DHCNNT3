@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" version="24.7.17" type="device">
+  <diagram id="Cau_1_Danh_sach_lop" name="BÀI 7 — CÂU 1: Các lớp, thuộc tính và phương thức">
+    <mxGraphModel dx="4200" dy="4878" grid="1" gridSize="10" guides="1" page="1" pageWidth="4200" pageHeight="4878" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="BÀI 7 — CÂU 1: Các lớp, thuộc tính và phương thức" style="text;html=1;align=left;verticalAlign=middle;fontFamily=Noto Sans;fontSize=34;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="35" y="15" width="4130" height="90" />
+        </mxCell>
+        <mxCell id="NhanVien" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="160.0" y="229.8" width="820" height="431.19999999999993" />
+        </mxCell>
+        <mxCell id="NhanVien_head" value="NhanVien" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="NhanVien" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="NhanVien_attrs" value="- maNhanVien: String {id}&lt;br&gt;- hoTen: String&lt;br&gt;- ngaySinh: Date&lt;br&gt;- diaChi: String&lt;br&gt;- soDienThoai: String&lt;br&gt;- ngayVaoLam: Date&lt;br&gt;- trangThai: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="NhanVien" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="269.59999999999997" />
+        </mxCell>
+        <mxCell id="NhanVien_methods" value="+ capNhatHoSo()&lt;br&gt;+ traCuuQuaTrinh()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="NhanVien" connectable="0">
+          <mxGeometry as="geometry" x="0" y="335.59999999999997" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="QuyetDinh" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="1170.0" y="180.0" width="820" height="530.8" />
+        </mxCell>
+        <mxCell id="QuyetDinh_head" value="«abstract»&lt;br&gt;QuyetDinh" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="QuyetDinh" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="96" />
+        </mxCell>
+        <mxCell id="QuyetDinh_attrs" value="- maQuyetDinh: String {id}&lt;br&gt;- soQuyetDinh: String&lt;br&gt;- ngayLap: Date&lt;br&gt;- ngayKy: Date?&lt;br&gt;- noiDung: String&lt;br&gt;- nguoiKy: String&lt;br&gt;- trangThai: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="QuyetDinh" connectable="0">
+          <mxGeometry as="geometry" x="0" y="96" width="820" height="269.59999999999997" />
+        </mxCell>
+        <mxCell id="QuyetDinh_methods" value="+ lap()&lt;br&gt;+ trinhKy()&lt;br&gt;+ pheDuyet()&lt;br&gt;+ traCuu()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="QuyetDinh" connectable="0">
+          <mxGeometry as="geometry" x="0" y="365.59999999999997" width="820" height="165.2" />
+        </mxCell>
+        <mxCell id="PhongBan" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="2180.0" y="264.59999999999997" width="820" height="361.6" />
+        </mxCell>
+        <mxCell id="PhongBan_head" value="PhongBan" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="PhongBan" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="PhongBan_attrs" value="- maPhongBan: String {id}&lt;br&gt;- tenPhongBan: String&lt;br&gt;- loaiDonVi: String&lt;br&gt;- diaDiem: String&lt;br&gt;- trangThai: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="PhongBan" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="200.0" />
+        </mxCell>
+        <mxCell id="PhongBan_methods" value="+ quanLyNhanVien()&lt;br&gt;+ lapKeHoachTuan()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="PhongBan" connectable="0">
+          <mxGeometry as="geometry" x="0" y="266.0" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="HopDong" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="3190.0" y="197.4" width="820" height="495.99999999999994" />
+        </mxCell>
+        <mxCell id="HopDong_head" value="«abstract»&lt;br&gt;HopDong" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="HopDong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="96" />
+        </mxCell>
+        <mxCell id="HopDong_attrs" value="- maHopDong: String {id}&lt;br&gt;- soHopDong: String&lt;br&gt;- ngayKy: Date&lt;br&gt;- ngayHieuLuc: Date&lt;br&gt;- ngayHetHan: Date?&lt;br&gt;- dieuKhoan: String&lt;br&gt;- trangThai: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="HopDong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="96" width="820" height="269.59999999999997" />
+        </mxCell>
+        <mxCell id="HopDong_methods" value="+ lapHopDong()&lt;br&gt;+ kyHopDong()&lt;br&gt;+ kiemTraHieuLuc()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="HopDong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="365.59999999999997" width="820" height="130.39999999999998" />
+        </mxCell>
+        <mxCell id="QDTuyenDung" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="160.0" y="920.8" width="820" height="361.6" />
+        </mxCell>
+        <mxCell id="QDTuyenDung_head" value="QDTuyenDung" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="QDTuyenDung" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="QDTuyenDung_attrs" value="- batDauThuViec: Date&lt;br&gt;- ketThucThuViec: Date&lt;br&gt;- luongThuViec: Decimal&lt;br&gt;- dieuKhoan: String&lt;br&gt;- ketQuaThuViec: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="QDTuyenDung" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="200.0" />
+        </mxCell>
+        <mxCell id="QDTuyenDung_methods" value="+ phanCongThuViec()&lt;br&gt;+ ghiNhanDanhGia()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="QDTuyenDung" connectable="0">
+          <mxGeometry as="geometry" x="0" y="266.0" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="QDChucVu" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="1170.0" y="972.9999999999999" width="820" height="257.2" />
+        </mxCell>
+        <mxCell id="QDChucVu_head" value="QDChucVu" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="QDChucVu" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="QDChucVu_attrs" value="- ngayHieuLuc: Date&lt;br&gt;- phuCapChucVu: Decimal" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="QDChucVu" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="QDChucVu_methods" value="+ boNhiem()&lt;br&gt;+ ketThucHieuLuc()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="QDChucVu" connectable="0">
+          <mxGeometry as="geometry" x="0" y="161.6" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="QDLuong" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="2180.0" y="938.1999999999999" width="820" height="326.79999999999995" />
+        </mxCell>
+        <mxCell id="QDLuong_head" value="QDLuong" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="QDLuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="QDLuong_attrs" value="- ngayHieuLuc: Date&lt;br&gt;- luongCoBan: Decimal&lt;br&gt;- phuCapLuong: Decimal&lt;br&gt;- phuCapDocHai: Decimal" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="QDLuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="165.2" />
+        </mxCell>
+        <mxCell id="QDLuong_methods" value="+ apDungMucLuong()&lt;br&gt;+ xacDinhMucHieuLuc()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="QDLuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="231.2" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="HopDongDaiHan" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="3190.0" y="1008.1999999999999" width="820" height="186.8" />
+        </mxCell>
+        <mxCell id="HopDongDaiHan_head" value="HopDongDaiHan" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="HopDongDaiHan" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="HopDongDaiHan_attrs" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="HopDongDaiHan" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="60" />
+        </mxCell>
+        <mxCell id="HopDongDaiHan_methods" value="+ yeuCauBaoHiem(): Boolean" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="HopDongDaiHan" connectable="0">
+          <mxGeometry as="geometry" x="0" y="126" width="820" height="60.8" />
+        </mxCell>
+        <mxCell id="QDKhenThuong" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="160.0" y="1492.4" width="820" height="396.4" />
+        </mxCell>
+        <mxCell id="QDKhenThuong_head" value="QDKhenThuong" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="QDKhenThuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="QDKhenThuong_attrs" value="- lyDo: String&lt;br&gt;- loaiThuong: String&lt;br&gt;- soTien: Decimal&lt;br&gt;- hinhThucChi: String&lt;br&gt;- ngayHieuLuc: Date" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="QDKhenThuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="200.0" />
+        </mxCell>
+        <mxCell id="QDKhenThuong_methods" value="+ chonDoiTuong()&lt;br&gt;+ kiemTraDuLieu()&lt;br&gt;+ trinhKy()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="QDKhenThuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="266.0" width="820" height="130.39999999999998" />
+        </mxCell>
+        <mxCell id="QDKyLuat" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="1170.0" y="1492.4" width="820" height="396.4" />
+        </mxCell>
+        <mxCell id="QDKyLuat_head" value="QDKyLuat" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="QDKyLuat" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="QDKyLuat_attrs" value="- lyDo: String&lt;br&gt;- hinhThucKyLuat: String&lt;br&gt;- soTienPhat: Decimal&lt;br&gt;- hinhThucThu: String&lt;br&gt;- ngayHieuLuc: Date" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="QDKyLuat" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="200.0" />
+        </mxCell>
+        <mxCell id="QDKyLuat_methods" value="+ chonDoiTuong()&lt;br&gt;+ trinhKy()&lt;br&gt;+ ghiNhanXuLy()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="QDKyLuat" connectable="0">
+          <mxGeometry as="geometry" x="0" y="266.0" width="820" height="130.39999999999998" />
+        </mxCell>
+        <mxCell id="ChucVu" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="2180.0" y="1544.6000000000001" width="820" height="292.0" />
+        </mxCell>
+        <mxCell id="ChucVu_head" value="ChucVu" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="ChucVu" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="ChucVu_attrs" value="- maChucVu: String {id}&lt;br&gt;- tenChucVu: String&lt;br&gt;- moTa: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="ChucVu" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="130.39999999999998" />
+        </mxCell>
+        <mxCell id="ChucVu_methods" value="+ capNhat()&lt;br&gt;+ traCuu()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="ChucVu" connectable="0">
+          <mxGeometry as="geometry" x="0" y="196.39999999999998" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="HopDongNganHan" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="3190.0" y="1597.2" width="820" height="186.8" />
+        </mxCell>
+        <mxCell id="HopDongNganHan_head" value="HopDongNganHan" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="HopDongNganHan" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="HopDongNganHan_attrs" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="HopDongNganHan" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="60" />
+        </mxCell>
+        <mxCell id="HopDongNganHan_methods" value="+ kiemTraThoiHan()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="HopDongNganHan" connectable="0">
+          <mxGeometry as="geometry" x="0" y="126" width="820" height="60.8" />
+        </mxCell>
+        <mxCell id="HoSoBaoHiem" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="160.0" y="2098.8" width="820" height="431.19999999999993" />
+        </mxCell>
+        <mxCell id="HoSoBaoHiem_head" value="HoSoBaoHiem" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="HoSoBaoHiem" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="HoSoBaoHiem_attrs" value="- maHoSoBH: String {id}&lt;br&gt;- soBHYT: String&lt;br&gt;- soBHXH: String&lt;br&gt;- ngayThamGia: Date&lt;br&gt;- mucDongBHYT: Decimal&lt;br&gt;- mucDongBHXH: Decimal&lt;br&gt;- trangThai: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="HoSoBaoHiem" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="269.59999999999997" />
+        </mxCell>
+        <mxCell id="HoSoBaoHiem_methods" value="+ lapHoSo()&lt;br&gt;+ tinhKhoanKhauTru()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="HoSoBaoHiem" connectable="0">
+          <mxGeometry as="geometry" x="0" y="335.59999999999997" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="KeHoachTuan" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="1170.0" y="2116.2000000000003" width="820" height="396.4" />
+        </mxCell>
+        <mxCell id="KeHoachTuan_head" value="KeHoachTuan" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="KeHoachTuan" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="KeHoachTuan_attrs" value="- maKeHoach: String {id}&lt;br&gt;- tuan: Integer&lt;br&gt;- nam: Integer&lt;br&gt;- ngayLap: Date&lt;br&gt;- trangThai: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="KeHoachTuan" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="200.0" />
+        </mxCell>
+        <mxCell id="KeHoachTuan_methods" value="+ lapKeHoach()&lt;br&gt;+ themPhanCong()&lt;br&gt;+ guiBanChamCong()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="KeHoachTuan" connectable="0">
+          <mxGeometry as="geometry" x="0" y="266.0" width="820" height="130.39999999999998" />
+        </mxCell>
+        <mxCell id="PhanCongCa" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="2180.0" y="2133.6" width="820" height="361.6" />
+        </mxCell>
+        <mxCell id="PhanCongCa_head" value="PhanCongCa" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="PhanCongCa" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="PhanCongCa_attrs" value="- maPhanCong: String {id}&lt;br&gt;- ngayLam: Date&lt;br&gt;- nhiemVu: String&lt;br&gt;- soGioPhuTroiDuKien: Decimal&lt;br&gt;- hinhThucPhuTroi: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="PhanCongCa" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="200.0" />
+        </mxCell>
+        <mxCell id="PhanCongCa_methods" value="+ phanCong()&lt;br&gt;+ dieuChinh()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="PhanCongCa" connectable="0">
+          <mxGeometry as="geometry" x="0" y="266.0" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="CaLamViec" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="3190.0" y="2133.6" width="820" height="361.6" />
+        </mxCell>
+        <mxCell id="CaLamViec_head" value="CaLamViec" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="CaLamViec" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="CaLamViec_attrs" value="- maCa: String {id}&lt;br&gt;- tenCa: String&lt;br&gt;- gioBatDau: Time&lt;br&gt;- gioKetThuc: Time&lt;br&gt;- soGioChuan: Decimal" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="CaLamViec" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="200.0" />
+        </mxCell>
+        <mxCell id="CaLamViec_methods" value="+ capNhatCa()&lt;br&gt;+ tinhSoGio()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="CaLamViec" connectable="0">
+          <mxGeometry as="geometry" x="0" y="266.0" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="BangChamCong" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="160.0" y="2740.0" width="820" height="396.4" />
+        </mxCell>
+        <mxCell id="BangChamCong_head" value="BangChamCong" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="BangChamCong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="BangChamCong_attrs" value="- maBangChamCong: String {id}&lt;br&gt;- thang: Integer&lt;br&gt;- nam: Integer&lt;br&gt;- ngayLap: Date&lt;br&gt;- trangThai: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="BangChamCong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="200.0" />
+        </mxCell>
+        <mxCell id="BangChamCong_methods" value="+ tongHopChamCong()&lt;br&gt;+ kiemTra()&lt;br&gt;+ chotBang()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="BangChamCong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="266.0" width="820" height="130.39999999999998" />
+        </mxCell>
+        <mxCell id="ChiTietChamCong" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="1170.0" y="2740.0" width="820" height="396.4" />
+        </mxCell>
+        <mxCell id="ChiTietChamCong_head" value="ChiTietChamCong" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="ChiTietChamCong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="ChiTietChamCong_attrs" value="- maChiTietCC: String {id}&lt;br&gt;- ngayLam: Date&lt;br&gt;- gioVao: Time&lt;br&gt;- gioRa: Time&lt;br&gt;- soGioLam: Decimal&lt;br&gt;- soCong: Decimal" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="ChiTietChamCong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="234.79999999999998" />
+        </mxCell>
+        <mxCell id="ChiTietChamCong_methods" value="+ ghiNhanCong()&lt;br&gt;+ tinhCongThucTe()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="ChiTietChamCong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="300.79999999999995" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="PhieuPhuTroi" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="2180.0" y="2740.0" width="820" height="396.4" />
+        </mxCell>
+        <mxCell id="PhieuPhuTroi_head" value="PhieuPhuTroi" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="PhieuPhuTroi" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="PhieuPhuTroi_attrs" value="- maPhieuPT: String {id}&lt;br&gt;- ngayPhuTroi: Date&lt;br&gt;- soGioPhuTroi: Decimal&lt;br&gt;- hinhThuc: String&lt;br&gt;- heSo: Decimal = 1.5&lt;br&gt;- trangThai: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="PhieuPhuTroi" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="234.79999999999998" />
+        </mxCell>
+        <mxCell id="PhieuPhuTroi_methods" value="+ lapPhieu()&lt;br&gt;+ xacNhanPhuTroi()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="PhieuPhuTroi" connectable="0">
+          <mxGeometry as="geometry" x="0" y="300.79999999999995" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="ChiTietPhuTroi" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="3190.0" y="2792.2" width="820" height="292.0" />
+        </mxCell>
+        <mxCell id="ChiTietPhuTroi_head" value="ChiTietPhuTroi" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="ChiTietPhuTroi" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="ChiTietPhuTroi_attrs" value="- maChiTietPT: String {id}&lt;br&gt;- soGioThucTe: Decimal&lt;br&gt;- ghiChu: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="ChiTietPhuTroi" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="130.39999999999998" />
+        </mxCell>
+        <mxCell id="ChiTietPhuTroi_methods" value="+ ghiNhanSoGio()&lt;br&gt;+ tinhTienPhuTroi()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="ChiTietPhuTroi" connectable="0">
+          <mxGeometry as="geometry" x="0" y="196.39999999999998" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="BangLuong" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="160.0" y="3450.8" width="820" height="431.19999999999993" />
+        </mxCell>
+        <mxCell id="BangLuong_head" value="BangLuong" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="BangLuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="BangLuong_attrs" value="- maBangLuong: String {id}&lt;br&gt;- thang: Integer&lt;br&gt;- nam: Integer&lt;br&gt;- ngayLap: Date&lt;br&gt;- trangThai: String&lt;br&gt;- tongThucLinh: Decimal" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="BangLuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="234.79999999999998" />
+        </mxCell>
+        <mxCell id="BangLuong_methods" value="+ tinhLuong()&lt;br&gt;+ kiemTra()&lt;br&gt;+ chotBangLuong()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="BangLuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="300.79999999999995" width="820" height="130.39999999999998" />
+        </mxCell>
+        <mxCell id="ChiTietLuong" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="1170.0" y="3346.4" width="820" height="640.0" />
+        </mxCell>
+        <mxCell id="ChiTietLuong_head" value="ChiTietLuong" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="ChiTietLuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="ChiTietLuong_attrs" value="- maChiTietLuong: String {id}&lt;br&gt;- ngayCong: Decimal&lt;br&gt;- gioPhuTroi: Decimal&lt;br&gt;- luongTheoCong: Decimal&lt;br&gt;- tienPhuTroi: Decimal&lt;br&gt;- phuCapChucVu: Decimal&lt;br&gt;- phuCapLuong: Decimal&lt;br&gt;- phuCapDocHai: Decimal&lt;br&gt;- tienThuong: Decimal&lt;br&gt;- tienPhat: Decimal&lt;br&gt;- khauTruBHYT: Decimal&lt;br&gt;- khauTruBHXH: Decimal&lt;br&gt;- thucLinh: Decimal" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="ChiTietLuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="478.4" />
+        </mxCell>
+        <mxCell id="ChiTietLuong_methods" value="+ tinhThucLinh()&lt;br&gt;+ doiChieuChungTu()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="ChiTietLuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="544.4" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="PhanBoThuongPhat" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="2180.0" y="3485.6" width="820" height="361.6" />
+        </mxCell>
+        <mxCell id="PhanBoThuongPhat_head" value="PhanBoThuongPhat" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="PhanBoThuongPhat" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="PhanBoThuongPhat_attrs" value="- maPhanBo: String {id}&lt;br&gt;- loaiKhoan: String&lt;br&gt;- soTien: Decimal&lt;br&gt;- hinhThucXuLy: String&lt;br&gt;- trangThai: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="PhanBoThuongPhat" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="200.0" />
+        </mxCell>
+        <mxCell id="PhanBoThuongPhat_methods" value="+ phanBoChoNhanVien()&lt;br&gt;+ kiemTraKhongTrungChiThu()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="PhanBoThuongPhat" connectable="0">
+          <mxGeometry as="geometry" x="0" y="266.0" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="PhieuChiKhenThuong" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="3190.0" y="3485.6" width="820" height="361.6" />
+        </mxCell>
+        <mxCell id="PhieuChiKhenThuong_head" value="PhieuChiKhenThuong" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="PhieuChiKhenThuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="PhieuChiKhenThuong_attrs" value="- maPhieuChi: String {id}&lt;br&gt;- ngayChi: Date&lt;br&gt;- soTien: Decimal&lt;br&gt;- nguoiNhan: String&lt;br&gt;- trangThai: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="PhieuChiKhenThuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="200.0" />
+        </mxCell>
+        <mxCell id="PhieuChiKhenThuong_methods" value="+ lapPhieuChi()&lt;br&gt;+ xacNhanDaChi()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="PhieuChiKhenThuong" connectable="0">
+          <mxGeometry as="geometry" x="0" y="266.0" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="PhieuThuNopPhat" value="" style="group;" vertex="1" parent="1" connectable="1">
+          <mxGeometry as="geometry" x="160.0" y="4196.4" width="820" height="361.6" />
+        </mxCell>
+        <mxCell id="PhieuThuNopPhat_head" value="PhieuThuNopPhat" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#F0F0F0;fontFamily=Noto Sans;fontSize=24;fontStyle=1;" vertex="1" parent="PhieuThuNopPhat" connectable="0">
+          <mxGeometry as="geometry" x="0" y="0" width="820" height="66" />
+        </mxCell>
+        <mxCell id="PhieuThuNopPhat_attrs" value="- maPhieuThu: String {id}&lt;br&gt;- ngayThu: Date&lt;br&gt;- soTien: Decimal&lt;br&gt;- nguoiNop: String&lt;br&gt;- trangThai: String" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="PhieuThuNopPhat" connectable="0">
+          <mxGeometry as="geometry" x="0" y="66" width="820" height="200.0" />
+        </mxCell>
+        <mxCell id="PhieuThuNopPhat_methods" value="+ lapPhieuThu()&lt;br&gt;+ xacNhanDaThu()" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;spacingLeft=14;strokeColor=#555555;strokeWidth=1.8;fillColor=#FFFFFF;fontFamily=Noto Sans;fontSize=24;" vertex="1" parent="PhieuThuNopPhat" connectable="0">
+          <mxGeometry as="geometry" x="0" y="266.0" width="820" height="95.6" />
+        </mxCell>
+        <mxCell id="label0" value="{id}: mã định danh của lớp. Lớp con dùng lại ID của lớp cha, không tạo thêm ID mới. Dấu -: thuộc tính; dấu +: phương thức." style="text;html=1;align=center;verticalAlign=middle;fontFamily=Noto Sans;fontSize=23;fontColor=#222222;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="100" y="4798.0" width="4000" height="55" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
