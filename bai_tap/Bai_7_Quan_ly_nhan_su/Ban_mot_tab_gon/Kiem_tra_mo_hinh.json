@@ -1,0 +1,96 @@
+{
+  "singleTab": true,
+  "sections": [
+    {
+      "section": "01",
+      "title": "Danh mục 25 lớp — thuộc tính, phương thức, ID",
+      "x": 120,
+      "y": 380,
+      "width": 9000,
+      "height": 8901.0,
+      "sourceWidth": 5700.0,
+      "sourceHeight": 4668.0,
+      "vertices": 102,
+      "edges": 0
+    },
+    {
+      "section": "02",
+      "title": "Class Diagram — 43 mối quan hệ theo cụm",
+      "x": 9340,
+      "y": 380,
+      "width": 9000,
+      "height": 8901.0,
+      "sourceWidth": 8360.0,
+      "sourceHeight": 8691.0,
+      "vertices": 299,
+      "edges": 43
+    },
+    {
+      "section": "03",
+      "title": "Use Case tổng quát — các nhóm nghiệp vụ",
+      "x": 120,
+      "y": 9501.0,
+      "width": 9000,
+      "height": 4670.0,
+      "sourceWidth": 3000.0,
+      "sourceHeight": 4460.0,
+      "vertices": 49,
+      "edges": 22
+    },
+    {
+      "section": "04",
+      "title": "Use Case phân rã — từ thử việc đến ký hợp đồng",
+      "x": 9340,
+      "y": 9501.0,
+      "width": 9000,
+      "height": 4670.0,
+      "sourceWidth": 2400.0,
+      "sourceHeight": 2460.0,
+      "vertices": 17,
+      "edges": 14
+    },
+    {
+      "section": "05",
+      "title": "Activity — thử việc và ký hợp đồng",
+      "x": 120,
+      "y": 14391.0,
+      "width": 9000,
+      "height": 4920.0,
+      "sourceWidth": 2240.0,
+      "sourceHeight": 2700.0,
+      "vertices": 18,
+      "edges": 12
+    },
+    {
+      "section": "06",
+      "title": "Sequence — lập quyết định khen thưởng",
+      "x": 9340,
+      "y": 14391.0,
+      "width": 9000,
+      "height": 4920.0,
+      "sourceWidth": 3170.0,
+      "sourceHeight": 4710.0,
+      "vertices": 88,
+      "edges": 37
+    },
+    {
+      "section": "07",
+      "title": "Class chi tiết có quan hệ — toàn bộ lớp và các tham chiếu",
+      "x": 120,
+      "y": 19531.0,
+      "width": 18220,
+      "height": 12343.0,
+      "sourceWidth": 12560.0,
+      "sourceHeight": 12133.0,
+      "vertices": 299,
+      "edges": 43
+    }
+  ],
+  "classCount": 25,
+  "classRelationsEachView": 43,
+  "canvas": {
+    "width": 18460,
+    "height": 32114.0
+  },
+  "allElementsEditable": true
+}
