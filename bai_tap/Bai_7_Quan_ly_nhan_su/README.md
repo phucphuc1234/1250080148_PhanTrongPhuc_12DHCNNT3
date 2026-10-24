@@ -1,11 +1,11 @@
 # Bài 7 — Quản lý nhân sự
 
-**Sơ đồ Class cập nhật theo mẫu trong PowerPoint:**
+## File XML: mỗi sơ đồ một tab riêng
 
-- [File XML — một hình liền mạch, 25 lớp và 43 quan hệ](Class_Mot_Hinh_Lien_Mach/Bai_7_Class_Mot_Hinh_Lien_Mach.xml)
-- [Ảnh sơ đồ Class](Class_Mot_Hinh_Lien_Mach/Bai_7_Class_Mot_Hinh_Lien_Mach.png)
-- [PDF sơ đồ Class](Class_Mot_Hinh_Lien_Mach/Bai_7_Class_Mot_Hinh_Lien_Mach.pdf)
+**[Mở file XML 7 tab riêng](7_Tab_Rieng/Bai_7_7_So_Do_7_Tab_Rieng.xml)**
 
-[Word bài làm đã soạn, có khung chèn ảnh](Bai_7_Bai_lam_cho_chen_anh.docx).
+Mỗi sơ đồ ở một tab. Sơ đồ Class là một hình liền mạch: 25 lớp xuất hiện mỗi lớp một lần, nối trực tiếp bằng đủ 43 quan hệ, không chia phần A/B và không lặp hộp tham chiếu. Tab cuối giữ đầy đủ thuộc tính và phương thức theo mẫu trong PowerPoint.
 
-XML mở bằng diagrams.net (draw.io). Mỗi lớp xuất hiện một lần, các lớp nối trực tiếp trên cùng một sơ đồ.
+- [Hướng dẫn mở các tab trong draw.io](7_Tab_Rieng/README.md)
+- [Xem ảnh Class đầy đủ](Class_Mot_Hinh_Lien_Mach/Bai_7_Class_Mot_Hinh_Lien_Mach.png)
+- [Word bài làm có khung chèn ảnh](Bai_7_Bai_lam_cho_chen_anh.docx)
