@@ -1,0 +1,883 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9400" height="6600" viewBox="0 0 9400 6600">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="0" y1="0" x2="0" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="40" y1="0" x2="40" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="80" y1="0" x2="80" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="120" y1="0" x2="120" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="160" y1="0" x2="160" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="200" y1="0" x2="200" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="240" y1="0" x2="240" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="280" y1="0" x2="280" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="320" y1="0" x2="320" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="360" y1="0" x2="360" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="400" y1="0" x2="400" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="440" y1="0" x2="440" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="480" y1="0" x2="480" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="520" y1="0" x2="520" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="560" y1="0" x2="560" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="600" y1="0" x2="600" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="640" y1="0" x2="640" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="680" y1="0" x2="680" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="720" y1="0" x2="720" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="760" y1="0" x2="760" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="800" y1="0" x2="800" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="840" y1="0" x2="840" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="880" y1="0" x2="880" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="920" y1="0" x2="920" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="960" y1="0" x2="960" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1000" y1="0" x2="1000" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1040" y1="0" x2="1040" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1080" y1="0" x2="1080" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1120" y1="0" x2="1120" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1160" y1="0" x2="1160" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1200" y1="0" x2="1200" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1240" y1="0" x2="1240" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1280" y1="0" x2="1280" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1320" y1="0" x2="1320" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1360" y1="0" x2="1360" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1400" y1="0" x2="1400" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1440" y1="0" x2="1440" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1480" y1="0" x2="1480" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1520" y1="0" x2="1520" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1560" y1="0" x2="1560" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1600" y1="0" x2="1600" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1640" y1="0" x2="1640" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1680" y1="0" x2="1680" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1720" y1="0" x2="1720" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1760" y1="0" x2="1760" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1800" y1="0" x2="1800" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1840" y1="0" x2="1840" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1880" y1="0" x2="1880" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1920" y1="0" x2="1920" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="1960" y1="0" x2="1960" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2000" y1="0" x2="2000" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2040" y1="0" x2="2040" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2080" y1="0" x2="2080" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2120" y1="0" x2="2120" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2160" y1="0" x2="2160" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2200" y1="0" x2="2200" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2240" y1="0" x2="2240" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2280" y1="0" x2="2280" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2320" y1="0" x2="2320" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2360" y1="0" x2="2360" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2400" y1="0" x2="2400" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2440" y1="0" x2="2440" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2480" y1="0" x2="2480" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2520" y1="0" x2="2520" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2560" y1="0" x2="2560" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2600" y1="0" x2="2600" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2640" y1="0" x2="2640" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2680" y1="0" x2="2680" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2720" y1="0" x2="2720" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2760" y1="0" x2="2760" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2800" y1="0" x2="2800" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2840" y1="0" x2="2840" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2880" y1="0" x2="2880" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2920" y1="0" x2="2920" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="2960" y1="0" x2="2960" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3000" y1="0" x2="3000" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3040" y1="0" x2="3040" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3080" y1="0" x2="3080" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3120" y1="0" x2="3120" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3160" y1="0" x2="3160" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3200" y1="0" x2="3200" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3240" y1="0" x2="3240" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3280" y1="0" x2="3280" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3320" y1="0" x2="3320" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3360" y1="0" x2="3360" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3400" y1="0" x2="3400" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3440" y1="0" x2="3440" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3480" y1="0" x2="3480" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3520" y1="0" x2="3520" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3560" y1="0" x2="3560" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3600" y1="0" x2="3600" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3640" y1="0" x2="3640" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3680" y1="0" x2="3680" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3720" y1="0" x2="3720" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3760" y1="0" x2="3760" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3800" y1="0" x2="3800" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3840" y1="0" x2="3840" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3880" y1="0" x2="3880" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3920" y1="0" x2="3920" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="3960" y1="0" x2="3960" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4000" y1="0" x2="4000" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4040" y1="0" x2="4040" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4080" y1="0" x2="4080" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4120" y1="0" x2="4120" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4160" y1="0" x2="4160" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4200" y1="0" x2="4200" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4240" y1="0" x2="4240" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4280" y1="0" x2="4280" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4320" y1="0" x2="4320" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4360" y1="0" x2="4360" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4400" y1="0" x2="4400" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4440" y1="0" x2="4440" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4480" y1="0" x2="4480" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4520" y1="0" x2="4520" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4560" y1="0" x2="4560" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4600" y1="0" x2="4600" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4640" y1="0" x2="4640" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4680" y1="0" x2="4680" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4720" y1="0" x2="4720" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4760" y1="0" x2="4760" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4800" y1="0" x2="4800" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4840" y1="0" x2="4840" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4880" y1="0" x2="4880" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4920" y1="0" x2="4920" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="4960" y1="0" x2="4960" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5000" y1="0" x2="5000" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5040" y1="0" x2="5040" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5080" y1="0" x2="5080" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5120" y1="0" x2="5120" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5160" y1="0" x2="5160" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5200" y1="0" x2="5200" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5240" y1="0" x2="5240" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5280" y1="0" x2="5280" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5320" y1="0" x2="5320" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5360" y1="0" x2="5360" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5400" y1="0" x2="5400" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5440" y1="0" x2="5440" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5480" y1="0" x2="5480" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5520" y1="0" x2="5520" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5560" y1="0" x2="5560" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5600" y1="0" x2="5600" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5640" y1="0" x2="5640" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5680" y1="0" x2="5680" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5720" y1="0" x2="5720" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5760" y1="0" x2="5760" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5800" y1="0" x2="5800" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5840" y1="0" x2="5840" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5880" y1="0" x2="5880" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5920" y1="0" x2="5920" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="5960" y1="0" x2="5960" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6000" y1="0" x2="6000" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6040" y1="0" x2="6040" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6080" y1="0" x2="6080" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6120" y1="0" x2="6120" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6160" y1="0" x2="6160" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6200" y1="0" x2="6200" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6240" y1="0" x2="6240" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6280" y1="0" x2="6280" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6320" y1="0" x2="6320" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6360" y1="0" x2="6360" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6400" y1="0" x2="6400" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6440" y1="0" x2="6440" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6480" y1="0" x2="6480" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6520" y1="0" x2="6520" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6560" y1="0" x2="6560" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6600" y1="0" x2="6600" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6640" y1="0" x2="6640" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6680" y1="0" x2="6680" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6720" y1="0" x2="6720" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6760" y1="0" x2="6760" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6800" y1="0" x2="6800" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6840" y1="0" x2="6840" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6880" y1="0" x2="6880" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6920" y1="0" x2="6920" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="6960" y1="0" x2="6960" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7000" y1="0" x2="7000" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7040" y1="0" x2="7040" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7080" y1="0" x2="7080" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7120" y1="0" x2="7120" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7160" y1="0" x2="7160" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7200" y1="0" x2="7200" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7240" y1="0" x2="7240" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7280" y1="0" x2="7280" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7320" y1="0" x2="7320" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7360" y1="0" x2="7360" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7400" y1="0" x2="7400" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7440" y1="0" x2="7440" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7480" y1="0" x2="7480" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7520" y1="0" x2="7520" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7560" y1="0" x2="7560" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7600" y1="0" x2="7600" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7640" y1="0" x2="7640" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7680" y1="0" x2="7680" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7720" y1="0" x2="7720" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7760" y1="0" x2="7760" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7800" y1="0" x2="7800" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7840" y1="0" x2="7840" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7880" y1="0" x2="7880" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7920" y1="0" x2="7920" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="7960" y1="0" x2="7960" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8000" y1="0" x2="8000" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8040" y1="0" x2="8040" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8080" y1="0" x2="8080" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8120" y1="0" x2="8120" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8160" y1="0" x2="8160" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8200" y1="0" x2="8200" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8240" y1="0" x2="8240" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8280" y1="0" x2="8280" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8320" y1="0" x2="8320" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8360" y1="0" x2="8360" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8400" y1="0" x2="8400" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8440" y1="0" x2="8440" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8480" y1="0" x2="8480" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8520" y1="0" x2="8520" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8560" y1="0" x2="8560" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8600" y1="0" x2="8600" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8640" y1="0" x2="8640" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8680" y1="0" x2="8680" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8720" y1="0" x2="8720" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8760" y1="0" x2="8760" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8800" y1="0" x2="8800" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8840" y1="0" x2="8840" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8880" y1="0" x2="8880" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8920" y1="0" x2="8920" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="8960" y1="0" x2="8960" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="9000" y1="0" x2="9000" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="9040" y1="0" x2="9040" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="9080" y1="0" x2="9080" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="9120" y1="0" x2="9120" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="9160" y1="0" x2="9160" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="9200" y1="0" x2="9200" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="9240" y1="0" x2="9240" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="9280" y1="0" x2="9280" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="9320" y1="0" x2="9320" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="9360" y1="0" x2="9360" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="9400" y1="0" x2="9400" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="0" x2="9400" y2="0" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="40" x2="9400" y2="40" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="80" x2="9400" y2="80" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="120" x2="9400" y2="120" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="160" x2="9400" y2="160" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="200" x2="9400" y2="200" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="240" x2="9400" y2="240" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="280" x2="9400" y2="280" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="320" x2="9400" y2="320" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="360" x2="9400" y2="360" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="400" x2="9400" y2="400" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="440" x2="9400" y2="440" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="480" x2="9400" y2="480" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="520" x2="9400" y2="520" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="560" x2="9400" y2="560" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="600" x2="9400" y2="600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="640" x2="9400" y2="640" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="680" x2="9400" y2="680" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="720" x2="9400" y2="720" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="760" x2="9400" y2="760" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="800" x2="9400" y2="800" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="840" x2="9400" y2="840" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="880" x2="9400" y2="880" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="920" x2="9400" y2="920" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="960" x2="9400" y2="960" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1000" x2="9400" y2="1000" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1040" x2="9400" y2="1040" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1080" x2="9400" y2="1080" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1120" x2="9400" y2="1120" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1160" x2="9400" y2="1160" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1200" x2="9400" y2="1200" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1240" x2="9400" y2="1240" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1280" x2="9400" y2="1280" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1320" x2="9400" y2="1320" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1360" x2="9400" y2="1360" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1400" x2="9400" y2="1400" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1440" x2="9400" y2="1440" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1480" x2="9400" y2="1480" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1520" x2="9400" y2="1520" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1560" x2="9400" y2="1560" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1600" x2="9400" y2="1600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1640" x2="9400" y2="1640" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1680" x2="9400" y2="1680" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1720" x2="9400" y2="1720" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1760" x2="9400" y2="1760" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1800" x2="9400" y2="1800" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1840" x2="9400" y2="1840" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1880" x2="9400" y2="1880" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1920" x2="9400" y2="1920" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="1960" x2="9400" y2="1960" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2000" x2="9400" y2="2000" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2040" x2="9400" y2="2040" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2080" x2="9400" y2="2080" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2120" x2="9400" y2="2120" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2160" x2="9400" y2="2160" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2200" x2="9400" y2="2200" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2240" x2="9400" y2="2240" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2280" x2="9400" y2="2280" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2320" x2="9400" y2="2320" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2360" x2="9400" y2="2360" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2400" x2="9400" y2="2400" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2440" x2="9400" y2="2440" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2480" x2="9400" y2="2480" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2520" x2="9400" y2="2520" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2560" x2="9400" y2="2560" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2600" x2="9400" y2="2600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2640" x2="9400" y2="2640" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2680" x2="9400" y2="2680" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2720" x2="9400" y2="2720" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2760" x2="9400" y2="2760" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2800" x2="9400" y2="2800" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2840" x2="9400" y2="2840" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2880" x2="9400" y2="2880" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2920" x2="9400" y2="2920" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="2960" x2="9400" y2="2960" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3000" x2="9400" y2="3000" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3040" x2="9400" y2="3040" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3080" x2="9400" y2="3080" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3120" x2="9400" y2="3120" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3160" x2="9400" y2="3160" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3200" x2="9400" y2="3200" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3240" x2="9400" y2="3240" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3280" x2="9400" y2="3280" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3320" x2="9400" y2="3320" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3360" x2="9400" y2="3360" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3400" x2="9400" y2="3400" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3440" x2="9400" y2="3440" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3480" x2="9400" y2="3480" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3520" x2="9400" y2="3520" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3560" x2="9400" y2="3560" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3600" x2="9400" y2="3600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3640" x2="9400" y2="3640" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3680" x2="9400" y2="3680" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3720" x2="9400" y2="3720" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3760" x2="9400" y2="3760" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3800" x2="9400" y2="3800" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3840" x2="9400" y2="3840" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3880" x2="9400" y2="3880" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3920" x2="9400" y2="3920" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="3960" x2="9400" y2="3960" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4000" x2="9400" y2="4000" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4040" x2="9400" y2="4040" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4080" x2="9400" y2="4080" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4120" x2="9400" y2="4120" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4160" x2="9400" y2="4160" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4200" x2="9400" y2="4200" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4240" x2="9400" y2="4240" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4280" x2="9400" y2="4280" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4320" x2="9400" y2="4320" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4360" x2="9400" y2="4360" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4400" x2="9400" y2="4400" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4440" x2="9400" y2="4440" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4480" x2="9400" y2="4480" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4520" x2="9400" y2="4520" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4560" x2="9400" y2="4560" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4600" x2="9400" y2="4600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4640" x2="9400" y2="4640" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4680" x2="9400" y2="4680" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4720" x2="9400" y2="4720" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4760" x2="9400" y2="4760" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4800" x2="9400" y2="4800" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4840" x2="9400" y2="4840" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4880" x2="9400" y2="4880" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4920" x2="9400" y2="4920" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="4960" x2="9400" y2="4960" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5000" x2="9400" y2="5000" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5040" x2="9400" y2="5040" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5080" x2="9400" y2="5080" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5120" x2="9400" y2="5120" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5160" x2="9400" y2="5160" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5200" x2="9400" y2="5200" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5240" x2="9400" y2="5240" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5280" x2="9400" y2="5280" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5320" x2="9400" y2="5320" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5360" x2="9400" y2="5360" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5400" x2="9400" y2="5400" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5440" x2="9400" y2="5440" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5480" x2="9400" y2="5480" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5520" x2="9400" y2="5520" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5560" x2="9400" y2="5560" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5600" x2="9400" y2="5600" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5640" x2="9400" y2="5640" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5680" x2="9400" y2="5680" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5720" x2="9400" y2="5720" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5760" x2="9400" y2="5760" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5800" x2="9400" y2="5800" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5840" x2="9400" y2="5840" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5880" x2="9400" y2="5880" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5920" x2="9400" y2="5920" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="5960" x2="9400" y2="5960" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6000" x2="9400" y2="6000" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6040" x2="9400" y2="6040" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6080" x2="9400" y2="6080" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6120" x2="9400" y2="6120" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6160" x2="9400" y2="6160" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6200" x2="9400" y2="6200" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6240" x2="9400" y2="6240" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6280" x2="9400" y2="6280" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6320" x2="9400" y2="6320" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6360" x2="9400" y2="6360" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6400" x2="9400" y2="6400" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6440" x2="9400" y2="6440" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6480" x2="9400" y2="6480" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6520" x2="9400" y2="6520" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6560" x2="9400" y2="6560" stroke="#E9ECF0" stroke-width="0.8"/>
+<line x1="0" y1="6600" x2="9400" y2="6600" stroke="#E9ECF0" stroke-width="0.8"/>
+<text x="44" y="72.24000000000001" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="34" font-weight="bold" fill="#222222">BÀI 7 — CLASS DIAGRAM QUẢN LÝ NHÂN SỰ</text>
+<polyline points="3800.0,1300.0 3800.0,1262.0 3800,1250 3800,925 3800.0,934.75 3800.0,896.75" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polygon points="3800.0,896.75 3808.1552090611913,915.0117788062462 3791.8447909388087,915.0117788062462" fill="white" stroke="#555555" stroke-width="1.8"/>
+<polyline points="4520.0,1449.625 4482.0,1449.625 4475,1449.625 4475,1450 4475,600 4225,600 4218.0,600 4218.0,594.375 4180.0,594.375" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polygon points="4180.0,594.375 4198.261778806246,586.2197909388086 4198.261778806246,602.5302090611914" fill="white" stroke="#555555" stroke-width="1.8"/>
+<polyline points="5620.0,1485.875 5582.0,1485.875 5575,1485.875 5575,1475 5575,575 4200,575 4200,650 4225,650 4218.0,650 4218.0,652.375 4180.0,652.375" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polygon points="4180.0,652.375 4198.261778806246,644.2197909388086 4198.261778806246,660.5302090611914" fill="white" stroke="#555555" stroke-width="1.8"/>
+<polyline points="1980.0,1435.125 2018.0,1435.125 2025,1435.125 2025,1425 2025,600 3375,600 3382.0,600 3382.0,594.375 3420.0,594.375" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polygon points="3420.0,594.375 3401.738221193754,602.5302090611914 3401.738221193754,586.2197909388086" fill="white" stroke="#555555" stroke-width="1.8"/>
+<polyline points="3080.0,1435.125 3118.0,1435.125 3125,1435.125 3125,1425 3125,650 3375,650 3382.0,650 3382.0,652.375 3420.0,652.375" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polygon points="3420.0,652.375 3401.738221193754,660.5302090611914 3401.738221193754,644.2197909388086" fill="white" stroke="#555555" stroke-width="1.8"/>
+<polyline points="7100.0,1300.0 7100.0,1262.0 7100,1250 7100,900 7100.0,898.5 7100.0,860.5" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polygon points="7100.0,860.5 7108.155209061191,878.7617788062462 7091.844790938809,878.7617788062462" fill="white" stroke="#555555" stroke-width="1.8"/>
+<polyline points="7820.0,1412.25 7782.0,1412.25 7775,1412.25 7775,1400 7775,600 7525,600 7518.0,600 7518.0,605.25 7480.0,605.25" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polygon points="7480.0,605.25 7498.261778806246,597.0947909388086 7498.261778806246,613.4052090611914" fill="white" stroke="#555555" stroke-width="1.8"/>
+<polyline points="5620.0,2672.875 5582.0,2672.875 5575,2672.875 5575,2675 5575,2600 5325,2600 5318.0,2600 5318.0,2593.125 5280.0,2593.125" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="5507.0" y="2648.125" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="5547.0" y="2675.045" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="5288.125" y="2609.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="5328.125" y="2635.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="4842.0,2400.0 4842.0,2362.0 4850,2362.0 4850,2350 4850,1750 3800,1750 3800.0,1746.0 3800.0,1708.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="4838.0" y="2334.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4878.0" y="2360.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="3773.0" y="1759.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="3813.0" y="1785.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<polyline points="5620.0,2498.875 5582.0,2498.875 5575,2498.875 5575,2500 5575,1650 4225,1650 4225,1500 4218.0,1500 4218.0,1504.0 4180.0,1504.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="5507.0" y="2472.125" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="5547.0" y="2499.045" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="4213.0" y="1487.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4253.0" y="1513.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="5280.0,2535.125 5318.0,2535.125 5325,2535.125 5325,2525 5325,1725 6675,1725 6675,600 6682.0,600 6682.0,605.25 6720.0,605.25" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="5313.0" y="2506.125" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="5353.0" y="2533.045" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="6607.0" y="585.75" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="6647.0" y="612.67" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="4900.0,2400.0 4900.0,2362.0 4900,2350 4900,1625 4875,1625 4871.0,1625 4871.0,1637.25 4871.0,1599.25" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="4928.0" y="2326.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4968.0" y="2352.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="4835.75" y="1634.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4875.75" y="1660.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="7820.0,2549.625 7782.0,2549.625 7775,2549.625 7775,2550 7500,2550 7500,300 5325,300 5325,1450 5318.0,1450 5318.0,1449.625 5280.0,1449.625" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="7725.375" y="2503.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="7765.375" y="2529.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="5313.0" y="1421.375" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="5353.0" y="1448.295" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="4958.0,2400.0 4958.0,2362.0 4950,2362.0 4950,2350 4950,1700 5975,1700 5971.0,1700 5971.0,1709.75 5971.0,1671.75" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="4938.0" y="2264.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4978.0" y="2290.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="5931.75" y="1709.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="5971.75" y="1735.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="5280.0,2651.125 5318.0,2651.125 5325,2651.125 5325,2650 5325,2800 6675,2800 6675,2600 6682.0,2600 6682.0,2593.125 6720.0,2593.125" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="5313.0" y="2674.875" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="5353.0" y="2701.795" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="6607.0" y="2584.125" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="6647.0" y="2611.045" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..1</text>
+<polyline points="7100.0,1524.5 7100.0,1562.5 7100,1550 7100,2350 7100.0,2362.0 7100.0,2400.0" fill="none" stroke="#555555" stroke-width="1.8" stroke-dasharray="10 7"/>
+<polyline points="7094.291353657166,2387.216754835628 7100.0,2400.0 7105.708646342834,2387.216754835628" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="6380.0,2585.875 6418.0,2585.875 6425,2585.875 6425,2575 6425,3525 7775,3525 7775,3750 7782.0,3750 7782.0,3746.0 7820.0,3746.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="6413.0" y="2556.875" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="6453.0" y="2583.795" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="7707.0" y="3725.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="7747.0" y="3751.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="7820.0,3804.0 7782.0,3804.0 7775,3804.0 7775,3800 7775,3775 7525,3775 7518.0,3775 7518.0,3785.875 7480.0,3785.875" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polygon points="7820.0,3804.0 7806.0,3796.0 7792.0,3804.0 7806.0,3812.0" fill="#555555" stroke="#555555" stroke-width="1.8"/>
+<rect x="7707.0" y="3775.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="7747.0" y="3801.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="7519.125" y="3784.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="7559.125" y="3810.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1..*</text>
+<polyline points="5280.0,2709.125 5318.0,2709.125 5325,2709.125 5312.5,2709.125 5312.5,2700 5325,2700 5300,2700 5300,3550 6675,3550 6675,3750 6682.0,3750 6682.0,3756.875 6720.0,3756.875" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="5288.0" y="2736.875" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="5328.0" y="2763.795" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="6607.0" y="3727.875" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="6647.0" y="3754.795" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="6380.0,3785.875 6418.0,3785.875 6425,3785.875 6425,3775 6425,3825 6675,3825 6682.0,3825 6682.0,3814.875 6720.0,3814.875" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="6413.0" y="3756.875" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="6453.0" y="3783.795" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="6600.125" y="3778.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="6640.125" y="3804.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="6380.0,5233.0 6418.0,5233.0 6425,5233.0 6425,5225 6425,5200 6675,5200 6682.0,5200 6682.0,5204.0 6720.0,5204.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polygon points="6380.0,5233.0 6394.0,5241.0 6408.0,5233.0 6394.0,5225.0" fill="#555555" stroke="#555555" stroke-width="1.8"/>
+<rect x="6413.0" y="5204.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="6453.0" y="5230.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="6629.0" y="5153.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="6669.0" y="5179.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1..*</text>
+<polyline points="4958.0,2844.25 4958.0,2882.25 4950,2882.25 4950,2875 6400,2875 6400,4925 7075,4925 7075,4950 7071.0,4950 7071.0,4962.0 7071.0,5000.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="4911.75" y="2884.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4951.75" y="2910.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="7063.0" y="4930.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="7103.0" y="4956.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="6000.0,3971.75 6000.0,4009.75 6000,4000 6000,4950 6000,4937.5 7125,4937.5 7125,4950 7129.0,4950 7129.0,4962.0 7129.0,5000.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="5932.0" y="3988.25" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="5972.0" y="4015.17" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="7153.0" y="4930.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="7193.0" y="4956.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="4180.0,5204.0 4218.0,5204.0 4225,5204.0 4225,5200 4225,5150 4475,5150 4482.0,5150 4482.0,5149.625 4520.0,5149.625" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polygon points="4180.0,5204.0 4194.0,5212.0 4208.0,5204.0 4194.0,5196.0" fill="#555555" stroke="#555555" stroke-width="1.8"/>
+<rect x="4213.0" y="5175.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4253.0" y="5201.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="4425.375" y="5103.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4465.375" y="5129.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1..*</text>
+<polyline points="4842.0,2844.25 4842.0,2882.25 4850,2882.25 4850,2875 4850,3500 5275,3500 5275,3550 5300,3550 5300,4925 4900,4925 4900,4950 4900.0,4962.0 4900.0,5000.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="4782.0" y="2857.75" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4822.0" y="2884.67" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="4888.0" y="4926.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4928.0" y="4952.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="4180.0,3793.125 4218.0,3793.125 4225,3793.125 4225,3800 4225,3925 4475,3925 4482.0,3925 4482.0,3930.875 4520.0,3930.875" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polygon points="4180.0,3793.125 4194.0,3801.125 4208.0,3793.125 4194.0,3785.125" fill="#555555" stroke="#555555" stroke-width="1.8"/>
+<rect x="4213.0" y="3784.125" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4253.0" y="3811.045" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="4430.875" y="3878.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4470.875" y="3904.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1..*</text>
+<polyline points="4900.0,2844.25 4900.0,2882.25 4900,2875 4875,2875 4875,3550 4871.0,3550 4871.0,3562.0 4871.0,3600.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="4807.0" y="2910.75" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4847.0" y="2937.67" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="4863.0" y="3530.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4903.0" y="3556.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="6029.0,1671.75 6029.0,1709.75 6025,1709.75 6025,1700 6025,2350 5300,2350 5300,2625 5350,2625 5350,3525 4975,3525 4975,3550 4987.0,3550 4987.0,3562.0 4987.0,3600.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="6033.0" y="1684.25" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="6073.0" y="1711.17" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="4942.0" y="3483.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4982.0" y="3509.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="4929.0,1599.25 4929.0,1637.25 4925,1637.25 4925,1625 5300,1625 5300,1250 4200,1250 4200,1725 3775,1725 3775,2325 4450,2325 4450,3525 4925,3525 4925,3550 4929.0,3550 4929.0,3562.0 4929.0,3600.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="4955.75" y="1634.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4995.75" y="1660.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..1</text>
+<rect x="4953.0" y="3530.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4993.0" y="3556.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="1980.0,1609.125 2018.0,1609.125 2025,1609.125 2025,1600 2025,2800 4425,2800 4425,2600 4475,2600 4475,2575 4482.0,2575 4482.0,2564.125 4520.0,2564.125" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="2013.0" y="1581.875" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="2053.0" y="1608.795" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<rect x="4425.875" y="2553.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4465.875" y="2579.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..1</text>
+<polyline points="1980.0,1493.125 2018.0,1493.125 2025,1493.125 2025,1500 2000,1500 2000,275 6400,275 6400,2325 5525,2325 5525,2550 5575,2550 5582.0,2550 5582.0,2556.875 5620.0,2556.875" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="1988.0" y="1467.875" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="2028.0" y="1494.795" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<rect x="5531.875" y="2559.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="5571.875" y="2585.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..1</text>
+<polyline points="3080.0,1609.125 3118.0,1609.125 3125,1609.125 3125,1600 3350,1600 3350,2350 4200,2350 4200,2625 4475,2625 4482.0,2625 4482.0,2622.125 4520.0,2622.125" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="3120.875" y="1609.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="3160.875" y="1635.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<rect x="4427.875" y="2634.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4467.875" y="2660.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..1</text>
+<polyline points="3080.0,1493.125 3118.0,1493.125 3125,1493.125 3125,1500 3375,1500 3375,1225 5550,1225 5550,2625 5575,2625 5582.0,2625 5582.0,2614.875 5620.0,2614.875" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="3088.125" y="1509.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="3128.125" y="1535.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<rect x="5442.0" y="2596.125" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="5482.0" y="2623.045" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..1</text>
+<polyline points="1600.0,1744.25 1600.0,1782.25 1600,1775 1600,2350 1600.0,2362.0 1600.0,2400.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="1532.0" y="1765.75" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="1572.0" y="1792.67" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="1588.0" y="2326.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="1628.0" y="2352.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..1</text>
+<polyline points="2700.0,1744.25 2700.0,1782.25 2700,1775 2700,2350 2700.0,2362.0 2700.0,2400.0" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="2632.0" y="1765.75" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="2672.0" y="1792.67" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="2688.0" y="2326.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="2728.0" y="2352.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..1</text>
+<polyline points="1980.0,1551.125 2018.0,1551.125 2025,1551.125 2025,1550 2275,1550 2275,1250 3100,1250 3100,1525 3375,1525 3375,2550 3382.0,2550 3382.0,2556.875 3420.0,2556.875" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="2098.875" y="1503.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="2138.875" y="1529.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..1</text>
+<rect x="3307.0" y="2527.875" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="3347.0" y="2554.795" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="3080.0,1551.125 3118.0,1551.125 3125,1551.125 3125,1550 3112.5,1550 3112.5,2625 3125,2625 3375,2625 3382.0,2625 3382.0,2614.875 3420.0,2614.875" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="3100.5" y="1562.375" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="3140.5" y="1589.295" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..1</text>
+<rect x="3300.125" y="2578.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="3340.125" y="2604.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="4520.0,2680.125 4482.0,2680.125 4475,2680.125 4475,2675 4462.5,2675 4462.5,2575 4475,2575 4225,2575 4218.0,2575 4218.0,2585.875 4180.0,2585.875" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="4430.125" y="2684.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4470.125" y="2710.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">1</text>
+<rect x="4219.125" y="2584.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4259.125" y="2610.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="4813.0,3600.0 4813.0,3562.0 4825,3562.0 4825,3550 3800,3550 3800,2800 3800.0,2809.75 3800.0,2771.75" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="4757.0" y="3538.0" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="4797.0" y="3564.92" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..1</text>
+<rect x="3732.0" y="2788.25" width="80" height="38" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="3772.0" y="2815.17" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="22" font-weight="normal" fill="#222222">0..*</text>
+<polyline points="4180.0,3851.125 4218.0,3851.125 4225,3851.125 4225,3850 4200,3850 4200,4950 5575,4950 5575,5200 5582.0,5200 5582.0,5204.0 5620.0,5204.0" fill="none" stroke="#555555" stroke-width="1.8" stroke-dasharray="10 7"/>
+<polyline points="5607.216754835627,5209.708646342834 5620.0,5204.0 5607.216754835627,5198.291353657166" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="3800.0,4044.25 3800.0,4082.25 3800,4075 3800,4950 3800.0,4962.0 3800.0,5000.0" fill="none" stroke="#555555" stroke-width="1.8" stroke-dasharray="10 7"/>
+<polyline points="3794.291353657166,4987.216754835627 3800.0,5000.0 3805.708646342834,4987.216754835627" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="5280.0,3930.875 5318.0,3930.875 5325,3930.875 5325,3925 5325,2825 6400,2825 6400,2550 6650,2550 6650,2650 6675,2650 6682.0,2650 6682.0,2651.125 6720.0,2651.125" fill="none" stroke="#555555" stroke-width="1.8" stroke-dasharray="10 7"/>
+<polyline points="6707.216754835627,2656.833646342834 6720.0,2651.125 6707.216754835627,2645.416353657166" fill="none" stroke="#555555" stroke-width="1.8"/>
+<polyline points="6380.0,5175.0 6418.0,5175.0 6425,5175 6400,5175 6400,5425 7775,5425 7775,3850 7782.0,3850 7782.0,3862.0 7820.0,3862.0" fill="none" stroke="#555555" stroke-width="1.8" stroke-dasharray="10 7"/>
+<polyline points="7807.216754835627,3867.708646342834 7820.0,3862.0 7807.216754835627,3856.291353657166" fill="none" stroke="#555555" stroke-width="1.8"/>
+<rect x="3420.0" y="350.0" width="760" height="96" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="3800.0" y="390.25" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">«abstract»</text>
+<text x="3800.0" y="423.75" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">QuyetDinh</text>
+<rect x="3420.0" y="446.0" width="760" height="279.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3434.0" y="494.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maQuyetDinh: String {id}</text>
+<text x="3434.0" y="527.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soQuyetDinh: String</text>
+<text x="3434.0" y="561.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayLap: Date</text>
+<text x="3434.0" y="594.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayKy: Date?</text>
+<text x="3434.0" y="628.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- noiDung: String</text>
+<text x="3434.0" y="661.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- nguoiKy: String</text>
+<text x="3434.0" y="695.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="3420.0" y="725.75" width="760" height="171.0" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3434.0" y="770.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ lap()</text>
+<text x="3434.0" y="803.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ trinhKy()</text>
+<text x="3434.0" y="837.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ pheDuyet()</text>
+<text x="3434.0" y="870.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ traCuu()</text>
+<rect x="6720.0" y="350.0" width="760" height="96" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="7100.0" y="390.25" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">«abstract»</text>
+<text x="7100.0" y="423.75" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">HopDong</text>
+<rect x="6720.0" y="446.0" width="760" height="279.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="6734.0" y="494.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maHopDong: String {id}</text>
+<text x="6734.0" y="527.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soHopDong: String</text>
+<text x="6734.0" y="561.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayKy: Date</text>
+<text x="6734.0" y="594.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayHieuLuc: Date</text>
+<text x="6734.0" y="628.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayHetHan: Date?</text>
+<text x="6734.0" y="661.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- dieuKhoan: String</text>
+<text x="6734.0" y="695.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="6720.0" y="725.75" width="760" height="134.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="6734.0" y="768.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ lapHopDong()</text>
+<text x="6734.0" y="802.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ kyHopDong()</text>
+<text x="6734.0" y="835.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ kiemTraHieuLuc()</text>
+<rect x="1220.0" y="1300.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="1600.0" y="1342.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">QDKhenThuong</text>
+<rect x="1220.0" y="1366.0" width="760" height="243.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1234.0" y="1413.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maQuyetDinh: String {id, kế thừa}</text>
+<text x="1234.0" y="1446.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- lyDo: String</text>
+<text x="1234.0" y="1480.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- loaiThuong: String</text>
+<text x="1234.0" y="1513.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soTien: Decimal</text>
+<text x="1234.0" y="1547.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- hinhThucChi: String</text>
+<text x="1234.0" y="1580.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayHieuLuc: Date</text>
+<rect x="1220.0" y="1609.5" width="760" height="134.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1234.0" y="1652.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ chonDoiTuong()</text>
+<text x="1234.0" y="1685.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ kiemTraDuLieu()</text>
+<text x="1234.0" y="1719.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ trinhKy()</text>
+<rect x="2320.0" y="1300.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="2700.0" y="1342.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">QDKyLuat</text>
+<rect x="2320.0" y="1366.0" width="760" height="243.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2334.0" y="1413.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maQuyetDinh: String {id, kế thừa}</text>
+<text x="2334.0" y="1446.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- lyDo: String</text>
+<text x="2334.0" y="1480.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- hinhThucKyLuat: String</text>
+<text x="2334.0" y="1513.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soTienPhat: Decimal</text>
+<text x="2334.0" y="1547.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- hinhThucThu: String</text>
+<text x="2334.0" y="1580.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayHieuLuc: Date</text>
+<rect x="2320.0" y="1609.5" width="760" height="134.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2334.0" y="1652.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ chonDoiTuong()</text>
+<text x="2334.0" y="1685.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ trinhKy()</text>
+<text x="2334.0" y="1719.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ ghiNhanXuLy()</text>
+<rect x="3420.0" y="1300.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="3800.0" y="1342.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">QDTuyenDung</text>
+<rect x="3420.0" y="1366.0" width="760" height="243.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3434.0" y="1413.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maQuyetDinh: String {id, kế thừa}</text>
+<text x="3434.0" y="1446.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- batDauThuViec: Date</text>
+<text x="3434.0" y="1480.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ketThucThuViec: Date</text>
+<text x="3434.0" y="1513.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- luongThuViec: Decimal</text>
+<text x="3434.0" y="1547.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- dieuKhoan: String</text>
+<text x="3434.0" y="1580.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ketQuaThuViec: String</text>
+<rect x="3420.0" y="1609.5" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3434.0" y="1651.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ phanCongThuViec()</text>
+<text x="3434.0" y="1684.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ ghiNhanDanhGia()</text>
+<rect x="4520.0" y="1300.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="4900.0" y="1342.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">QDChucVu</text>
+<rect x="4520.0" y="1366.0" width="760" height="134.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="4534.0" y="1408.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maQuyetDinh: String {id, kế thừa}</text>
+<text x="4534.0" y="1442.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayHieuLuc: Date</text>
+<text x="4534.0" y="1475.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- phuCapChucVu: Decimal</text>
+<rect x="4520.0" y="1500.75" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="4534.0" y="1542.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ boNhiem()</text>
+<text x="4534.0" y="1575.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ ketThucHieuLuc()</text>
+<rect x="5620.0" y="1300.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="6000.0" y="1342.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">QDLuong</text>
+<rect x="5620.0" y="1366.0" width="760" height="207.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="5634.0" y="1411.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maQuyetDinh: String {id, kế thừa}</text>
+<text x="5634.0" y="1445.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayHieuLuc: Date</text>
+<text x="5634.0" y="1478.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- luongCoBan: Decimal</text>
+<text x="5634.0" y="1512.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- phuCapLuong: Decimal</text>
+<text x="5634.0" y="1545.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- phuCapDocHai: Decimal</text>
+<rect x="5620.0" y="1573.25" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="5634.0" y="1614.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ apDungMucLuong()</text>
+<text x="5634.0" y="1648.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ xacDinhMucHieuLuc()</text>
+<rect x="6720.0" y="1300.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="7100.0" y="1342.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">HopDongDaiHan</text>
+<rect x="6720.0" y="1366.0" width="760" height="96.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="6734.0" y="1423.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maHopDong: String {id, kế thừa}</text>
+<rect x="6720.0" y="1462.25" width="760" height="62.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="6734.0" y="1502.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ yeuCauBaoHiem(): Boolean</text>
+<rect x="7820.0" y="1300.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="8200.0" y="1342.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">HopDongNganHan</text>
+<rect x="7820.0" y="1366.0" width="760" height="96.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="7834.0" y="1423.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maHopDong: String {id, kế thừa}</text>
+<rect x="7820.0" y="1462.25" width="760" height="62.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="7834.0" y="1502.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ kiemTraThoiHan()</text>
+<rect x="1220.0" y="2400.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="1600.0" y="2442.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">PhieuChiKhenThuong</text>
+<rect x="1220.0" y="2466.0" width="760" height="207.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1234.0" y="2511.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maPhieuChi: String {id}</text>
+<text x="1234.0" y="2545.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayChi: Date</text>
+<text x="1234.0" y="2578.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soTien: Decimal</text>
+<text x="1234.0" y="2612.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- nguoiNhan: String</text>
+<text x="1234.0" y="2645.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="1220.0" y="2673.25" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="1234.0" y="2714.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ lapPhieuChi()</text>
+<text x="1234.0" y="2748.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ xacNhanDaChi()</text>
+<rect x="2320.0" y="2400.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="2700.0" y="2442.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">PhieuThuNopPhat</text>
+<rect x="2320.0" y="2466.0" width="760" height="207.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2334.0" y="2511.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maPhieuThu: String {id}</text>
+<text x="2334.0" y="2545.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayThu: Date</text>
+<text x="2334.0" y="2578.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soTien: Decimal</text>
+<text x="2334.0" y="2612.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- nguoiNop: String</text>
+<text x="2334.0" y="2645.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="2320.0" y="2673.25" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="2334.0" y="2714.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ lapPhieuThu()</text>
+<text x="2334.0" y="2748.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ xacNhanDaThu()</text>
+<rect x="3420.0" y="2400.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="3800.0" y="2442.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">PhanBoThuongPhat</text>
+<rect x="3420.0" y="2466.0" width="760" height="207.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3434.0" y="2511.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maPhanBo: String {id}</text>
+<text x="3434.0" y="2545.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- loaiKhoan: String</text>
+<text x="3434.0" y="2578.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soTien: Decimal</text>
+<text x="3434.0" y="2612.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- hinhThucXuLy: String</text>
+<text x="3434.0" y="2645.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="3420.0" y="2673.25" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3434.0" y="2714.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ phanBoChoNhanVien()</text>
+<text x="3434.0" y="2748.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ kiemTraKhongTrungChiThu()</text>
+<rect x="4520.0" y="2400.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="4900.0" y="2442.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">NhanVien</text>
+<rect x="4520.0" y="2466.0" width="760" height="279.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="4534.0" y="2514.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maNhanVien: String {id}</text>
+<text x="4534.0" y="2547.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- hoTen: String</text>
+<text x="4534.0" y="2581.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngaySinh: Date</text>
+<text x="4534.0" y="2614.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- diaChi: String</text>
+<text x="4534.0" y="2648.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soDienThoai: String</text>
+<text x="4534.0" y="2681.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayVaoLam: Date</text>
+<text x="4534.0" y="2715.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="4520.0" y="2745.75" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="4534.0" y="2787.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ capNhatHoSo()</text>
+<text x="4534.0" y="2820.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ traCuuQuaTrinh()</text>
+<rect x="5620.0" y="2400.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="6000.0" y="2442.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">PhongBan</text>
+<rect x="5620.0" y="2466.0" width="760" height="207.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="5634.0" y="2511.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maPhongBan: String {id}</text>
+<text x="5634.0" y="2545.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- tenPhongBan: String</text>
+<text x="5634.0" y="2578.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- loaiDonVi: String</text>
+<text x="5634.0" y="2612.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- diaDiem: String</text>
+<text x="5634.0" y="2645.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="5620.0" y="2673.25" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="5634.0" y="2714.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ quanLyNhanVien()</text>
+<text x="5634.0" y="2748.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ lapKeHoachTuan()</text>
+<rect x="6720.0" y="2400.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="7100.0" y="2442.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">HoSoBaoHiem</text>
+<rect x="6720.0" y="2466.0" width="760" height="279.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="6734.0" y="2514.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maHoSoBH: String {id}</text>
+<text x="6734.0" y="2547.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soBHYT: String</text>
+<text x="6734.0" y="2581.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soBHXH: String</text>
+<text x="6734.0" y="2614.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayThamGia: Date</text>
+<text x="6734.0" y="2648.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- mucDongBHYT: Decimal</text>
+<text x="6734.0" y="2681.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- mucDongBHXH: Decimal</text>
+<text x="6734.0" y="2715.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="6720.0" y="2745.75" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="6734.0" y="2787.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ lapHoSo()</text>
+<text x="6734.0" y="2820.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ tinhKhoanKhauTru()</text>
+<rect x="7820.0" y="2400.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="8200.0" y="2442.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">ChucVu</text>
+<rect x="7820.0" y="2466.0" width="760" height="134.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="7834.0" y="2508.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maChucVu: String {id}</text>
+<text x="7834.0" y="2542.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- tenChucVu: String</text>
+<text x="7834.0" y="2575.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- moTa: String</text>
+<rect x="7820.0" y="2600.75" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="7834.0" y="2642.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ capNhat()</text>
+<text x="7834.0" y="2675.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ traCuu()</text>
+<rect x="3420.0" y="3600.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="3800.0" y="3642.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">BangLuong</text>
+<rect x="3420.0" y="3666.0" width="760" height="243.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3434.0" y="3713.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maBangLuong: String {id}</text>
+<text x="3434.0" y="3746.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- thang: Integer</text>
+<text x="3434.0" y="3780.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- nam: Integer</text>
+<text x="3434.0" y="3813.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayLap: Date</text>
+<text x="3434.0" y="3847.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- trangThai: String</text>
+<text x="3434.0" y="3880.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- tongThucLinh: Decimal</text>
+<rect x="3420.0" y="3909.5" width="760" height="134.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3434.0" y="3952.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ tinhLuong()</text>
+<text x="3434.0" y="3985.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ kiemTra()</text>
+<text x="3434.0" y="4019.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ chotBangLuong()</text>
+<rect x="4520.0" y="3600.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="4900.0" y="3642.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">ChiTietLuong</text>
+<rect x="4520.0" y="3666.0" width="760" height="497.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="4534.0" y="3722.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maChiTietLuong: String {id}</text>
+<text x="4534.0" y="3756.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayCong: Decimal</text>
+<text x="4534.0" y="3789.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- gioPhuTroi: Decimal</text>
+<text x="4534.0" y="3823.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- luongTheoCong: Decimal</text>
+<text x="4534.0" y="3856.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- tienPhuTroi: Decimal</text>
+<text x="4534.0" y="3890.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- phuCapChucVu: Decimal</text>
+<text x="4534.0" y="3923.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- phuCapLuong: Decimal</text>
+<text x="4534.0" y="3957.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- phuCapDocHai: Decimal</text>
+<text x="4534.0" y="3990.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- tienThuong: Decimal</text>
+<text x="4534.0" y="4024.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- tienPhat: Decimal</text>
+<text x="4534.0" y="4057.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- khauTruBHYT: Decimal</text>
+<text x="4534.0" y="4091.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- khauTruBHXH: Decimal</text>
+<text x="4534.0" y="4124.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- thucLinh: Decimal</text>
+<rect x="4520.0" y="4163.25" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="4534.0" y="4204.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ tinhThucLinh()</text>
+<text x="4534.0" y="4238.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ doiChieuChungTu()</text>
+<rect x="5620.0" y="3600.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="6000.0" y="3642.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">CaLamViec</text>
+<rect x="5620.0" y="3666.0" width="760" height="207.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="5634.0" y="3711.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maCa: String {id}</text>
+<text x="5634.0" y="3745.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- tenCa: String</text>
+<text x="5634.0" y="3778.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- gioBatDau: Time</text>
+<text x="5634.0" y="3812.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- gioKetThuc: Time</text>
+<text x="5634.0" y="3845.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soGioChuan: Decimal</text>
+<rect x="5620.0" y="3873.25" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="5634.0" y="3914.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ capNhatCa()</text>
+<text x="5634.0" y="3948.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ tinhSoGio()</text>
+<rect x="6720.0" y="3600.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="7100.0" y="3642.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">PhanCongCa</text>
+<rect x="6720.0" y="3666.0" width="760" height="207.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="6734.0" y="3711.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maPhanCong: String {id}</text>
+<text x="6734.0" y="3745.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayLam: Date</text>
+<text x="6734.0" y="3778.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- nhiemVu: String</text>
+<text x="6734.0" y="3812.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soGioPhuTroiDuKien: Decimal</text>
+<text x="6734.0" y="3845.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- hinhThucPhuTroi: String</text>
+<rect x="6720.0" y="3873.25" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="6734.0" y="3914.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ phanCong()</text>
+<text x="6734.0" y="3948.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ dieuChinh()</text>
+<rect x="7820.0" y="3600.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="8200.0" y="3642.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">KeHoachTuan</text>
+<rect x="7820.0" y="3666.0" width="760" height="207.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="7834.0" y="3711.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maKeHoach: String {id}</text>
+<text x="7834.0" y="3745.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- tuan: Integer</text>
+<text x="7834.0" y="3778.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- nam: Integer</text>
+<text x="7834.0" y="3812.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayLap: Date</text>
+<text x="7834.0" y="3845.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="7820.0" y="3873.25" width="760" height="134.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="7834.0" y="3916.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ lapKeHoach()</text>
+<text x="7834.0" y="3949.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ themPhanCong()</text>
+<text x="7834.0" y="3983.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ guiBanChamCong()</text>
+<rect x="3420.0" y="5000.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="3800.0" y="5042.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">PhieuPhuTroi</text>
+<rect x="3420.0" y="5066.0" width="760" height="243.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3434.0" y="5113.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maPhieuPT: String {id}</text>
+<text x="3434.0" y="5146.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayPhuTroi: Date</text>
+<text x="3434.0" y="5180.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soGioPhuTroi: Decimal</text>
+<text x="3434.0" y="5213.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- hinhThuc: String</text>
+<text x="3434.0" y="5247.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- heSo: Decimal = 1.5</text>
+<text x="3434.0" y="5280.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="3420.0" y="5309.5" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="3434.0" y="5351.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ lapPhieu()</text>
+<text x="3434.0" y="5384.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ xacNhanPhuTroi()</text>
+<rect x="4520.0" y="5000.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="4900.0" y="5042.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">ChiTietPhuTroi</text>
+<rect x="4520.0" y="5066.0" width="760" height="134.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="4534.0" y="5108.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maChiTietPT: String {id}</text>
+<text x="4534.0" y="5142.375" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soGioThucTe: Decimal</text>
+<text x="4534.0" y="5175.875" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ghiChu: String</text>
+<rect x="4520.0" y="5200.75" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="4534.0" y="5242.25" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ ghiNhanSoGio()</text>
+<text x="4534.0" y="5275.75" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ tinhTienPhuTroi()</text>
+<rect x="5620.0" y="5000.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="6000.0" y="5042.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">BangChamCong</text>
+<rect x="5620.0" y="5066.0" width="760" height="207.25" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="5634.0" y="5111.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maBangChamCong: String {id}</text>
+<text x="5634.0" y="5145.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- thang: Integer</text>
+<text x="5634.0" y="5178.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- nam: Integer</text>
+<text x="5634.0" y="5212.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayLap: Date</text>
+<text x="5634.0" y="5245.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- trangThai: String</text>
+<rect x="5620.0" y="5273.25" width="760" height="134.75" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="5634.0" y="5316.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ tongHopChamCong()</text>
+<text x="5634.0" y="5349.625" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ kiemTra()</text>
+<text x="5634.0" y="5383.125" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ chotBang()</text>
+<rect x="6720.0" y="5000.0" width="760" height="66" rx="0" fill="#F0F0F0" stroke="#555555" stroke-width="1.8"/>
+<text x="7100.0" y="5042.0" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="bold" fill="#222222">ChiTietChamCong</text>
+<rect x="6720.0" y="5066.0" width="760" height="243.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="6734.0" y="5113.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- maChiTietCC: String {id}</text>
+<text x="6734.0" y="5146.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- ngayLam: Date</text>
+<text x="6734.0" y="5180.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- gioVao: Time</text>
+<text x="6734.0" y="5213.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- gioRa: Time</text>
+<text x="6734.0" y="5247.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soGioLam: Decimal</text>
+<text x="6734.0" y="5280.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">- soCong: Decimal</text>
+<rect x="6720.0" y="5309.5" width="760" height="98.5" rx="0" fill="#FFFFFF" stroke="#555555" stroke-width="1.8"/>
+<text x="6734.0" y="5351.0" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ ghiNhanCong()</text>
+<text x="6734.0" y="5384.5" text-anchor="start" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">+ tinhCongThucTe()</text>
+<text x="4700.0" y="152.22" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="27" font-weight="normal" fill="#222222">Một sơ đồ liên kết thống nhất • 25 lớp • 43 quan hệ • Mỗi lớp xuất hiện đúng một lần</text>
+<text x="4700.0" y="6256.5" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="25" font-weight="normal" fill="#222222">Hình thoi đen: hợp thành. Tam giác rỗng: kế thừa. Nét đứt: phụ thuộc. Số ở hai đầu là bản số.</text>
+<text x="4700.0" y="6348.64" text-anchor="middle" font-family="Noto Sans,Arial,sans-serif" font-size="24" font-weight="normal" fill="#222222">{xor}: quyết định chọn đúng một cá nhân hoặc một phòng ban; phân bổ đến từ thưởng hoặc phạt. Các đường giao nhau không có chấm không phải điểm nối.</text>
+</svg>
