@@ -1,0 +1,47 @@
+{
+  "status": "5 sơ đồ đã dựng; Class cần nguồn rõ chữ",
+  "native_editable": true,
+  "pixel_identity_certified": false,
+  "tabs": [
+    {
+      "file": "02_Use_Case_Tong_Quat.xml",
+      "tab": "02 - Use Case tổng quát",
+      "cells": 52,
+      "vertices": 31,
+      "edges": 19,
+      "references_valid": true
+    },
+    {
+      "file": "03_Hoan_Thien_Ho_So.xml",
+      "tab": "03 - Hoàn thiện hồ sơ chính thức",
+      "cells": 12,
+      "vertices": 7,
+      "edges": 3,
+      "references_valid": true
+    },
+    {
+      "file": "04_Activity.xml",
+      "tab": "04 - Activity",
+      "cells": 74,
+      "vertices": 40,
+      "edges": 32,
+      "references_valid": true
+    },
+    {
+      "file": "05_Tiep_Nhan_Thu_Viec.xml",
+      "tab": "05 - Tiếp nhận nhân viên thử việc",
+      "cells": 12,
+      "vertices": 7,
+      "edges": 3,
+      "references_valid": true
+    },
+    {
+      "file": "06_Sequence.xml",
+      "tab": "06 - Sequence",
+      "cells": 105,
+      "vertices": 52,
+      "edges": 51,
+      "references_valid": true
+    }
+  ]
+}
